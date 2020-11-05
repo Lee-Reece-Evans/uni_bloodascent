@@ -1,0 +1,1258 @@
+﻿Log file open, 03/26/20 13:27:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BloodAscent
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.388680
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMixedReality
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=darkrapture -epicuserid=e78b915f4f364be3a84927dec349c220 -epiclocale=en
+LogInit: Base Directory: G:/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.26-13.27.59:573][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.26-13.27.59:574][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.26-13.27.59:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:575][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:593][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.26-13.27.59:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.26-13.27.59:594][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.26-13.27.59:594][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.26-13.27.59:594][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.26-13.27.59:606][  0]LogHAL: Display: Platform has ~ 16 GB [17128382464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.26-13.27.59:606][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.26-13.27.59:606][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.26-13.27.59:606][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:606][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.26-13.27.59:607][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Projects/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.03.26-13.27.59:607][  0]LogInit: Computer: DESKTOP-9AMA8D2
+[2020.03.26-13.27.59:607][  0]LogInit: User: Lee
+[2020.03.26-13.27.59:607][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.26-13.27.59:607][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.26-13.27.59:607][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.26-13.27.59:607][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.26-13.27.59:607][  0]LogMemory: Process Physical Memory: 102.22 MB used, 102.23 MB peak
+[2020.03.26-13.27.59:607][  0]LogMemory: Process Virtual Memory: 103.20 MB used, 103.20 MB peak
+[2020.03.26-13.27.59:607][  0]LogMemory: Physical Memory: 9162.53 MB used,  7172.37 MB free, 16334.90 MB total
+[2020.03.26-13.27.59:607][  0]LogMemory: Virtual Memory: 4686.65 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.03.26-13.27.59:619][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.26-13.27.59:619][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.26-13.27.59:620][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.26-13.27.59:747][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.26-13.27.59:791][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.26-13.27.59:791][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.26-13.28.00:029][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.26-13.28.00:062][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2020.03.26-13.28.00:062][  0]LogD3D11RHI:       8151/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x1002
+[2020.03.26-13.28.00:064][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.26-13.28.00:064][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.26-13.28.00:065][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.26-13.28.00:065][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.26-13.28.00:065][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.26-13.28.00:073][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.26-13.28.00:073][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2020.03.26-13.28.00:073][  0]LogWindows: EnumDisplayDevices:
+[2020.03.26-13.28.00:073][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2020.03.26-13.28.00:073][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:073][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:074][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:074][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:074][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:074][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:075][  0]LogWindows:    7. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2020.03.26-13.28.00:075][  0]LogWindows:    8. 'Virtual Display Adapter' (P:0 D:1)
+[2020.03.26-13.28.00:075][  0]LogWindows:    9. 'Virtual Display Adapter' (P:0 D:1)
+[2020.03.26-13.28.00:075][  0]LogWindows:    10. 'Virtual Display Adapter' (P:0 D:1)
+[2020.03.26-13.28.00:075][  0]LogWindows:    11. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:075][  0]LogWindows:    12. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:075][  0]LogWindows:    13. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:076][  0]LogWindows:    14. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:076][  0]LogWindows:    15. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:076][  0]LogWindows:    16. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:076][  0]LogWindows:    17. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:076][  0]LogWindows:    18. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:077][  0]LogWindows:    19. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:077][  0]LogWindows:    20. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:077][  0]LogWindows:    21. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:077][  0]LogWindows:    22. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:077][  0]LogWindows:    23. 'Virtual Display Adapter' (P:0 D:0)
+[2020.03.26-13.28.00:077][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2020.03.26-13.28.00:077][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2020.03.26-13.28.00:077][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 19.12.2 (internal:26.20.15002.61, unified:26.20.15002.61)
+[2020.03.26-13.28.00:077][  0]LogD3D11RHI:      Driver Date: 12-4-2019
+[2020.03.26-13.28.00:077][  0]LogRHI: Texture pool is 5706 MB (70% of 8151 MB)
+[2020.03.26-13.28.00:131][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.26-13.28.00:135][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.26-13.28.00:137][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.26-13.28.00:137][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.26-13.28.00:144][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2020.03.26-13.28.00:352][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.26-13.28.00:364][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.26-13.28.00:375][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.26-13.28.00:387][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.26-13.28.00:399][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.26-13.28.00:411][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.26-13.28.00:423][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.26-13.28.00:435][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.26-13.28.00:440][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.26-13.28.00:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.26-13.28.00:514][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.26-13.28.00:560][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.26-13.28.00:560][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.26-13.28.00:581][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.26-13.28.00:581][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.26-13.28.00:592][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.26-13.28.00:603][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.26-13.28.00:615][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.26-13.28.00:627][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.26-13.28.00:668][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.26-13.28.00:668][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.26-13.28.00:668][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.26-13.28.00:673][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.26-13.28.00:699][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../Projects/Blood-Ascent/Intermediate/Shaders/WorkingDirectory/21980/).
+[2020.03.26-13.28.00:700][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lee/AppData/Local/Temp/UnrealShaderWorkingDir/2A66F5F34CCBDF270FD338822E223576/'.
+[2020.03.26-13.28.00:701][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.26-13.28.00:701][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.26-13.28.00:701][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.26-13.28.01:142][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.26-13.28.01:190][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/Lee/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.26-13.28.01:190][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lee/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.26-13.28.01:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Blood-Ascent/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.26-13.28.01:190][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.26-13.28.01:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Blood-Ascent/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.26-13.28.01:190][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.26-13.28.01:201][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.26-13.28.01:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.26-13.28.01:201][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.26-13.28.01:213][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.26-13.28.01:213][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.26-13.28.01:213][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.26-13.28.01:232][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.26-13.28.01:233][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.26-13.28.01:233][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.26-13.28.01:304][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2020.03.26-13.28.01:578][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.26-13.28.01:675][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.26-13.28.01:675][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.26-13.28.01:675][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.26-13.28.01:675][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.26-13.28.01:675][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.26-13.28.01:682][  0]LogNetVersion: BloodAscent 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 474268916)
+[2020.03.26-13.28.01:978][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.029246 seconds
+[2020.03.26-13.28.01:984][  0]LogUObjectArray: 42226 objects as part of root set at end of initial load.
+[2020.03.26-13.28.01:984][  0]LogUObjectAllocator: 7329400 out of 0 bytes used by permanent object pool.
+[2020.03.26-13.28.01:984][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.26-13.28.02:550][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.26-13.28.02:564][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.26-13.28.02:658][  0]SourceControl: Source control is disabled
+[2020.03.26-13.28.02:658][  0]SourceControl: Source control is disabled
+[2020.03.26-13.28.02:659][  0]SourceControl: Source control is disabled
+[2020.03.26-13.28.02:659][  0]SourceControl: Source control is disabled
+[2020.03.26-13.28.02:712][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.26-13.28.02:802][  0]LogOcInput: OculusInput pre-init called
+[2020.03.26-13.28.03:298][  0]LogEngine: Initializing Engine...
+[2020.03.26-13.28.03:299][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.26-13.28.03:458][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.26-13.28.03:466][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.26-13.28.03:509][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-13.28.03:524][  0]LogInit: FAudioDevice initialized.
+[2020.03.26-13.28.03:524][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.26-13.28.03:600][  0]LogDerivedDataCache: Saved boot cache 0.08s 86MB C:/Users/Lee/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.26-13.28.03:613][  0]LogInit: Texture streaming: Enabled
+[2020.03.26-13.28.03:625][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.26-13.28.03:640][  0]LogInit: Transaction tracking system initialized
+[2020.03.26-13.28.03:652][  0]BlueprintLog: New page: Editor Load
+[2020.03.26-13.28.03:699][  0]LocalizationService: Localization service is disabled
+[2020.03.26-13.28.03:905][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Blood-Ascent/Content/' took 0.02s
+[2020.03.26-13.28.03:905][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.26-13.28.03:905][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.26-13.28.04:024][  0]SourceControl: Source control is disabled
+[2020.03.26-13.28.04:148][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.26-13.28.07:196][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.03.26-13.28.07:196][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.26-13.28.07:199][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.26-13.28.07:204][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.26-13.28.07:205][  0]LightingResults: New page: Lighting Build
+[2020.03.26-13.28.07:206][  0]MapCheck: New page: Map Check
+[2020.03.26-13.28.07:206][  0]LightingResults: New page: Lighting Build
+[2020.03.26-13.28.07:236][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.26-13.28.08:473][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-13.28.08:509][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.26-13.28.08:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.03.26-13.28.08:550][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.26-13.28.08:551][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2020.03.26-13.28.08:551][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 1.346
+[2020.03.26-13.28.08:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.28.08:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.28.08:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.28.08:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.28.08:655][  0]LogCollectionManager: Loaded 0 collections in 0.000628 seconds
+[2020.03.26-13.28.08:682][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Blood-Ascent/Saved/Collections/' took 0.01s
+[2020.03.26-13.28.08:682][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Blood-Ascent/Content/Developers/Lee/Collections/' took 0.01s
+[2020.03.26-13.28.08:682][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Blood-Ascent/Content/Collections/' took 0.00s
+[2020.03.26-13.28.08:682][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.26-13.28.08:690][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2741 classes and 666 folders.
+[2020.03.26-13.28.08:695][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.26-13.28.08:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.26-13.28.08:718][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.26-13.28.08:724][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.26-13.28.08:761][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.26-13.28.08:761][  0]LogLoad: (Engine Initialization) Total time: 10.55 seconds
+[2020.03.26-13.28.08:761][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.26-13.28.08:799][  0]LogAssetRegistry: Asset discovery search completed in 7.5171 seconds
+[2020.03.26-13.28.08:801][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.26-13.28.08:801][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2020.03.26-13.28.08:802][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.26-13.28.08:816][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.26-13.28.08:819][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.26-13.28.08:908][  1]LogRenderer: Reallocating scene render targets to support 636x600 Format 26 NumSamples 1 (Frame:1).
+[2020.03.26-13.28.09:798][ 51]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.26-13.28.11:181][140]LogRenderer: Reallocating scene render targets to support 1656x808 Format 26 NumSamples 1 (Frame:141).
+[2020.03.26-13.28.13:654][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-13.28.13:800][365]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.03.26-13.28.14:020][365]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.26-13.28.14:711][365]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.26-13.28.14:943][366]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.26-13.28.20:214][761]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-13.28.20:239][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.28.20:239][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-13.28.20:240][761]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 13:28:20)
+[2020.03.26-13.28.20:252][761]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-13.28.20:289][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037338s)
+[2020.03.26-13.28.20:290][761]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-13.28.20:290][761]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2020.03.26-13.28.20:290][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.038286s)
+[2020.03.26-13.28.20:330][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.03.26-13.28.20:355][761]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-13.28.20:367][761]LogInit: FAudioDevice initialized.
+[2020.03.26-13.28.20:377][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.28.20:597][761]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-13.28.20:609][761]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-13.28.20
+[2020.03.26-13.28.20:610][761]LogWorld: Bringing up level for play took: 0.011798
+[2020.03.26-13.28.20:624][761]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.26-13.28.20:625][761]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.26-13.28.20:626][761]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.26-13.28.20:639][761]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.247
+[2020.03.26-13.28.20:640][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.28.20:649][761]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-13.28.21:101][762]LogRenderer: Reallocating scene render targets to support 3508x1756 Format 26 NumSamples 1 (Frame:2).
+[2020.03.26-13.28.21:204][764]LogRenderer: Reallocating scene render targets to support 3512x1756 Format 26 NumSamples 1 (Frame:3).
+[2020.03.26-13.29.17:737][949]LogCharacterMovement: Enemy_BP_C_1 is stuck and failed to move! Velocity: X=-45.88 Y=34.55 Z=0.00 Location: X=1168.90 Y=901.21 Z=-225.21 Normal: X=0.17 Y=-0.85 Z=-0.50 PenetrationDepth:19.203 Actor:Enemy_BP_C_4 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-13.29.59:418][610]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_0
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.29.59:418][610]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.30.06:361][904]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_1
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.30.06:361][904]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.30.13:782][230]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_4
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.30.13:782][230]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.30.18:360][413]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_2
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.30.18:360][413]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.30.31:809][813]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_3
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.30.31:809][813]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.31.14:898][896]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_5
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.31.14:898][896]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.31.26:709][470]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_7
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.31.26:709][470]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.31.34:568][859]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_6
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.31.34:569][859]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.31.39:867][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.31.39:882][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.31.39:955][118]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-13.31.40:013][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-13.31.40:013][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.31.40:062][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.03.26-13.31.40:295][119]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.26-13.31.47:605][706]LogSlate: Window 'Message Log' being destroyed
+[2020.03.26-13.31.47:612][706]LogSlate: Window 'Message Log' being destroyed
+[2020.03.26-13.31.52:223][ 61]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/ReviveSkeletonCoffin.ReviveSkeletonCoffin
+[2020.03.26-13.32.42:583][ 81]LogSlate: Window 'Delete Variable' being destroyed
+[2020.03.26-13.33.53:774][405]BlueprintLog: New page: Compile ReviveSkeletonCoffin
+[2020.03.26-13.33.53:994][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.03.26-13.33.54:987][472]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/ReviveSkeletonCoffinEC5350FC446A638C518ED3B4A409807A.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/ReviveSkeletonCoffin.uasset'
+[2020.03.26-13.34.55:375][ 47]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.26-13.35.21:022][351]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.35.21:282][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.03.26-13.35.25:111][675]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.35.25:362][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.03.26-13.35.41:436][198]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.35.41:684][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.26-13.39.10:553][642]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.39.10:809][642]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.03.26-13.39.11:492][675]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerPawn7E55A56D4A4BCBC1B2E4C3AFF7840AE7.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.03.26-13.46.14:741][ 70]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.46.14:993][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.03.26-13.46.15:862][123]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerPawn61EB7F64492BB97592767EB0814BEB96.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.03.26-13.48.27:163][475]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.48.27:414][475]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.03.26-13.49.07:013][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.03.26-13.49.07:053][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.03.26-13.49.07:557][474]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerMap9D4B79E44C306175E0407096BCF8E103.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.03.26-13.49.07:604][474]LogFileHelpers: Saving map 'MotionControllerMap' took 0.578
+[2020.03.26-13.49.07:737][474]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerPawn7CFF2D374E2869C61F480E875D029416.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.03.26-13.49.12:408][939]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-13.49.12:458][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.49.12:458][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-13.49.12:459][939]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 13:49:12)
+[2020.03.26-13.49.12:459][939]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-13.49.12:491][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032003s)
+[2020.03.26-13.49.12:491][939]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-13.49.12:491][939]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2020.03.26-13.49.12:491][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.032718s)
+[2020.03.26-13.49.12:528][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.03.26-13.49.12:551][939]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-13.49.12:561][939]LogInit: FAudioDevice initialized.
+[2020.03.26-13.49.12:570][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.49.12:738][939]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-13.49.12:744][939]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-13.49.12
+[2020.03.26-13.49.12:745][939]LogWorld: Bringing up level for play took: 0.006879
+[2020.03.26-13.49.12:872][939]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.479
+[2020.03.26-13.49.12:872][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.49.12:893][939]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-13.49.50:598][549]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_0
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.49.50:598][549]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.54.56:312][789]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_14
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-13.54.56:313][789]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-13.55.56:272][668]LogNet: Browse: /Game/VirtualRealityBP/Maps/TutorialMap
+[2020.03.26-13.55.56:292][668]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/TutorialMap
+[2020.03.26-13.55.56:345][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.26-13.55.58:289][668]LogAIModule: Creating AISystem for world TutorialMap
+[2020.03.26-13.55.58:289][668]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.26-13.55.58:289][668]LogLoad: Game class is 'GameModeBase'
+[2020.03.26-13.55.58:293][668]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.03.26-13.55.58
+[2020.03.26-13.55.58:293][668]LogWorld: Bringing up level for play took: 0.003807
+[2020.03.26-13.55.58:294][668]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.26-13.55.58:296][668]LogScript: Warning: Accessed None trying to read property 1_MediaPlayer
+	TutorialMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.TutorialMap_C_5
+	Function /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap:0053
+[2020.03.26-13.55.58:296][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property 1_MediaPlayer". Blueprint:  TutorialMap Function:  Execute Ubergraph Tutorial Map Graph:  EventGraph Node:  Open Source
+[2020.03.26-13.55.58:296][668]LogScript: Warning: Accessed None trying to read property 2_MediaPlayer
+	TutorialMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.TutorialMap_C_5
+	Function /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap:0080
+[2020.03.26-13.55.58:296][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property 2_MediaPlayer". Blueprint:  TutorialMap Function:  Execute Ubergraph Tutorial Map Graph:  EventGraph Node:  Open Source
+[2020.03.26-13.55.58:296][668]LogScript: Warning: Accessed None trying to read property 3_MediaPlayer
+	TutorialMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.TutorialMap_C_5
+	Function /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap:00AD
+[2020.03.26-13.55.58:297][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property 3_MediaPlayer". Blueprint:  TutorialMap Function:  Execute Ubergraph Tutorial Map Graph:  EventGraph Node:  Open Source
+[2020.03.26-13.55.58:297][668]LogScript: Warning: Accessed None trying to read property 4_MediaPlayer
+	TutorialMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.TutorialMap_C_5
+	Function /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap_C:ExecuteUbergraph_TutorialMap:001F
+[2020.03.26-13.55.58:297][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property 4_MediaPlayer". Blueprint:  TutorialMap Function:  Execute Ubergraph Tutorial Map Graph:  EventGraph Node:  Open Source
+[2020.03.26-13.55.58:297][668]LogLoad: Took 2.004853 seconds to LoadMap(/Game/VirtualRealityBP/Maps/TutorialMap)
+[2020.03.26-13.55.58:299][668]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-13.56.05:860][328]LogNet: Browse: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2020.03.26-13.56.05:870][328]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2020.03.26-13.56.05:920][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.26-13.56.05:920][328]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-13.56.05:952][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031612s)
+[2020.03.26-13.56.05:953][328]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-13.56.05:953][328]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2020.03.26-13.56.05:953][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.032349s)
+[2020.03.26-13.56.05:953][328]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-13.56.05:959][328]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-13.56.05
+[2020.03.26-13.56.05:960][328]LogWorld: Bringing up level for play took: 0.006481
+[2020.03.26-13.56.05:960][328]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.26-13.56.05:963][328]LogLoad: Took 0.092925 seconds to LoadMap(/Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap)
+[2020.03.26-13.56.05:966][328]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-13.57.04:329][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.57.04:342][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.57.04:410][ 60]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-13.57.04:443][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-13.57.04:444][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.57.04:498][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.03.26-13.57.04:565][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.26-13.57.06:474][214]LogSlate: Window 'Message Log' being destroyed
+[2020.03.26-13.57.06:481][214]LogSlate: Window 'Message Log' being destroyed
+[2020.03.26-13.57.18:489][499]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.26-13.57.18:736][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.03.26-13.57.19:147][508]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerPawnE6F285654A80315858A89285F446453F.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.03.26-13.57.23:388][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.03.26-13.57.23:436][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.03.26-13.57.23:941][966]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerMapE9CCD97C47CB1455476C7BBFAF45DF63.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.03.26-13.57.23:987][966]LogFileHelpers: Saving map 'MotionControllerMap' took 0.586
+[2020.03.26-13.57.26:711][241]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP
+[2020.03.26-13.57.39:241][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-13.57.56:012][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-13.58.12:259][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-13.58.44:368][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-13.58.44:435][197]BlueprintLog: New page: Compile Enemy_BP
+[2020.03.26-13.58.44:741][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.03.26-13.58.51:655][978]BlueprintLog: New page: Compile Enemy_BP
+[2020.03.26-13.58.51:926][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.03.26-13.58.54:310][251]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-13.58.54:338][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.58.54:338][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-13.58.54:338][251]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 13:58:54)
+[2020.03.26-13.58.54:338][251]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-13.58.54:371][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032670s)
+[2020.03.26-13.58.54:371][251]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-13.58.54:371][251]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2020.03.26-13.58.54:371][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.033361s)
+[2020.03.26-13.58.54:417][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.03.26-13.58.54:441][251]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-13.58.54:452][251]LogInit: FAudioDevice initialized.
+[2020.03.26-13.58.54:463][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-13.58.54:624][251]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-13.58.54:631][251]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-13.58.54
+[2020.03.26-13.58.54:631][251]LogWorld: Bringing up level for play took: 0.006982
+[2020.03.26-13.58.54:643][251]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.26-13.58.54:648][251]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.256
+[2020.03.26-13.58.54:648][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-13.58.54:652][251]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.00.15:670][855]LogScript: Warning: Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill
+	Enemy_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Enemy_BP_C_2
+	Function /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:1725
+[2020.03.26-14.00.15:670][855]PIE: Error: Blueprint Runtime Error: "Attempted to access CharacterMesh0 via property Mesh, but CharacterMesh0 is pending kill". Blueprint:  Enemy_BP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  Play Sound at Location
+[2020.03.26-14.00.38:627][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.00.38:644][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.00.38:693][815]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.00.38:731][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.00.38:731][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.00.38:783][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.03.26-14.00.38:816][816]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.26-14.03.57:786][845]LogEditorTransaction: Undo Move Node
+[2020.03.26-14.03.58:372][886]LogEditorTransaction: Undo Move Node
+[2020.03.26-14.03.59:037][947]LogEditorTransaction: Undo Break Pin Links
+[2020.03.26-14.04.01:763][254]LogEditorTransaction: Redo Break Pin Links
+[2020.03.26-14.04.01:927][255]LogEditorTransaction: Redo Move Node
+[2020.03.26-14.04.02:088][256]LogEditorTransaction: Redo Move Node
+[2020.03.26-14.06.38:194][202]BlueprintLog: New page: Compile Enemy_BP
+[2020.03.26-14.06.38:468][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.03.26-14.06.39:076][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/Enemy_BP" FILE="../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2020.03.26-14.06.39:262][235]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/Enemy_BP71E4AD374DDDE6F98F2C73A7D729044F.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Enemy_BP.uasset'
+[2020.03.26-14.06.46:245][939]BlueprintLog: New page: Compile Enemy_BP
+[2020.03.26-14.06.46:518][939]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.03.26-14.06.48:295][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.03.26-14.06.48:803][ 88]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerMap070E4393463F3217C8CEECAD3A06E150.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.03.26-14.06.53:009][ 88]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/MotionControllerMap_BuiltData051C219F431659C98BFAEF8CC86290BA.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2020.03.26-14.06.53:893][153]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Soul.Soul
+[2020.03.26-14.07.05:888][317]LogSlate: Window 'Soul' being destroyed
+[2020.03.26-14.07.05:894][317]LogSlate: Window 'Soul' being destroyed
+[2020.03.26-14.07.06:006][317]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.26-14.07.06:088][317]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.26-14.07.15:915][148]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Weapons/FireBall.FireBall
+[2020.03.26-14.07.42:546][856]BlueprintLog: New page: Compile FireBall
+[2020.03.26-14.07.42:785][856]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.03.26-14.07.46:934][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/Weapons/FireBall" FILE="../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Weapons/FireBall.uasset" SILENT=true
+[2020.03.26-14.07.46:973][284]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/FireBall0AF554E84B9C533F28D4469B4B9EE928.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Weapons/FireBall.uasset'
+[2020.03.26-14.07.48:543][450]LogSlate: Window 'FireBall' being destroyed
+[2020.03.26-14.07.48:549][450]LogSlate: Window 'FireBall' being destroyed
+[2020.03.26-14.07.53:091][881]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameMode/BP_VampireGM.BP_VampireGM
+[2020.03.26-14.08.04:185][933]BlueprintLog: New page: Compile BP_VampireGM
+[2020.03.26-14.08.04:465][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.26-14.08.05:346][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_VampireGM" FILE="../../../../../Projects/Blood-Ascent/Content/GameMode/BP_VampireGM.uasset" SILENT=true
+[2020.03.26-14.08.05:454][ 10]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/BP_VampireGM726A31164131C4563D592BA01081349C.tmp' to '../../../../../Projects/Blood-Ascent/Content/GameMode/BP_VampireGM.uasset'
+[2020.03.26-14.08.15:893][ 59]LogSlate: Window 'BP_VampireGM' being destroyed
+[2020.03.26-14.08.15:899][ 59]LogSlate: Window 'BP_VampireGM' being destroyed
+[2020.03.26-14.08.23:495][844]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/SoulTrail.SoulTrail
+[2020.03.26-14.08.23:605][844]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2020.03.26-14.08.23:606][844]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.03.26-14.08.23:826][844]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2020.03.26-14.08.36:887][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/SoulTrail" FILE="../../../../../Projects/Blood-Ascent/Content/StarterContent/Particles/SoulTrail.uasset" SILENT=true
+[2020.03.26-14.08.36:928][288]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/SoulTrail57DAE7C6487E33F973457090E1EF2654.tmp' to '../../../../../Projects/Blood-Ascent/Content/StarterContent/Particles/SoulTrail.uasset'
+[2020.03.26-14.08.45:189][241]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.08.45:223][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.08.45:223][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.08.45:223][241]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:08:45)
+[2020.03.26-14.08.45:223][241]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.08.45:255][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032250s)
+[2020.03.26-14.08.45:255][241]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.08.45:255][241]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2020.03.26-14.08.45:256][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.032928s)
+[2020.03.26-14.08.45:329][241]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.03.26-14.08.45:352][241]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.08.45:363][241]LogInit: FAudioDevice initialized.
+[2020.03.26-14.08.45:376][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.08.45:554][241]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.08.45:562][241]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.08.45
+[2020.03.26-14.08.45:563][241]LogWorld: Bringing up level for play took: 0.007827
+[2020.03.26-14.08.45:580][241]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.188
+[2020.03.26-14.08.45:580][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.08.45:585][241]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.12.37:685][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.12.37:698][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.12.37:778][539]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.12.37:818][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.12.37:818][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.12.37:877][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.26-14.12.37:896][540]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.26-14.13.01:147][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/SoulTrail" FILE="../../../../../Projects/Blood-Ascent/Content/StarterContent/Particles/SoulTrail.uasset" SILENT=true
+[2020.03.26-14.13.01:177][716]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/SoulTrail1A279C1B42FA5DEF9B2F71812E6E6090.tmp' to '../../../../../Projects/Blood-Ascent/Content/StarterContent/Particles/SoulTrail.uasset'
+[2020.03.26-14.13.09:105][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-14.13.09:165][483]LogSlate: Window 'SoulTrail' being destroyed
+[2020.03.26-14.13.09:173][483]LogSlate: Window 'SoulTrail' being destroyed
+[2020.03.26-14.13.09:173][483]LogCascade: Quitting Cascade. FXSystem=0x000001AB0A77C640
+[2020.03.26-14.13.23:005][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-14.13.34:970][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-14.13.48:268][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall31)
+[2020.03.26-14.14.44:292][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-14.14.50:051][650]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2020.03.26-14.14.50:212][650]LogBlueprintActionDatabase: Requesting refresh due to module change: PhysicsAssetEditor (loaded)
+[2020.03.26-14.14.50:212][650]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.03.26-14.14.50:260][650]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.03.26-14.14.50:261][650]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.26-14.14.50:762][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.26-14.14.50:843][650]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.03.26-14.14.50:843][650]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.26-14.15.40:128][727]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/SK_Mannequin_PhysicsAsset9F79FF64493D6FF8C8DF49B48C216C80.tmp' to '../../../../../Projects/Blood-Ascent/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2020.03.26-14.15.43:095][903]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.15.43:125][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.15.43:125][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.15.43:125][903]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:15:43)
+[2020.03.26-14.15.43:125][903]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.15.43:159][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033660s)
+[2020.03.26-14.15.43:159][903]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.15.43:159][903]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2020.03.26-14.15.43:159][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.034547s)
+[2020.03.26-14.15.43:239][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.03.26-14.15.43:264][903]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.15.43:275][903]LogInit: FAudioDevice initialized.
+[2020.03.26-14.15.43:288][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.15.43:498][903]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.15.43:508][903]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.15.43
+[2020.03.26-14.15.43:509][903]LogWorld: Bringing up level for play took: 0.010031
+[2020.03.26-14.15.43:529][903]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.136
+[2020.03.26-14.15.43:534][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.15.43:540][903]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.15.57:193][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.15.57:214][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.15.57:293][307]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.15.57:324][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.15.57:324][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.15.57:386][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.03.26-14.15.57:407][308]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.26-14.15.59:806][436]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.15.59:846][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.15.59:846][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.15.59:846][436]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:15:59)
+[2020.03.26-14.15.59:846][436]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.15.59:891][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044341s)
+[2020.03.26-14.15.59:891][436]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.15.59:892][436]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.03.26-14.15.59:892][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.045492s)
+[2020.03.26-14.15.59:934][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.03.26-14.15.59:963][436]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.15.59:982][436]LogInit: FAudioDevice initialized.
+[2020.03.26-14.16.00:001][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.16.00:220][436]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.16.00:229][436]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.16.00
+[2020.03.26-14.16.00:230][436]LogWorld: Bringing up level for play took: 0.008524
+[2020.03.26-14.16.00:249][436]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.143
+[2020.03.26-14.16.00:250][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.00:255][436]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.16.14:449][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.14:452][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.16.14:550][865]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.16.14:585][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.16.14:586][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.14:628][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.03.26-14.16.14:648][866]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.03.26-14.16.16:489][963]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2020.03.26-14.16.16:506][963]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2020.03.26-14.16.17:738][ 39]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.16.17:767][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.17:767][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.16.17:767][ 39]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:16:17)
+[2020.03.26-14.16.17:767][ 39]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.16.17:801][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033675s)
+[2020.03.26-14.16.17:801][ 39]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.16.17:801][ 39]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2020.03.26-14.16.17:801][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.034403s)
+[2020.03.26-14.16.17:839][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.03.26-14.16.17:863][ 39]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.16.17:874][ 39]LogInit: FAudioDevice initialized.
+[2020.03.26-14.16.17:886][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.16.18:102][ 39]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.16.18:111][ 39]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.16.18
+[2020.03.26-14.16.18:112][ 39]LogWorld: Bringing up level for play took: 0.009572
+[2020.03.26-14.16.18:130][ 39]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.261
+[2020.03.26-14.16.18:131][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.18:134][ 39]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.16.29:100][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.29:123][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.16.29:187][433]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.16.29:223][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.16.29:223][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.29:263][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.26-14.16.29:279][434]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.03.26-14.16.43:659][772]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.16.43:687][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.43:687][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.16.43:687][772]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:16:43)
+[2020.03.26-14.16.43:688][772]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.16.43:721][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033888s)
+[2020.03.26-14.16.43:722][772]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.16.43:722][772]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2020.03.26-14.16.43:722][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.034635s)
+[2020.03.26-14.16.43:754][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.03.26-14.16.43:777][772]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.16.43:789][772]LogInit: FAudioDevice initialized.
+[2020.03.26-14.16.43:803][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.16.43:994][772]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.16.44:002][772]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.16.44
+[2020.03.26-14.16.44:003][772]LogWorld: Bringing up level for play took: 0.007826
+[2020.03.26-14.16.44:020][772]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.371
+[2020.03.26-14.16.44:021][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.16.44:025][772]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.20.33:582][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.20.33:594][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.20.33:666][157]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.20.33:702][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.20.33:702][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.20.33:753][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.03.26-14.20.33:771][158]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.03.26-14.20.37:281][464]LogSlate: Took 0.028917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.03.26-14.21.18:045][334]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameMode/BP_VampireGM.BP_VampireGM
+[2020.03.26-14.21.26:603][ 32]BlueprintLog: New page: Compile BP_VampireGM
+[2020.03.26-14.21.26:884][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.26-14.21.27:939][115]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.21.27:972][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.21.27:972][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.21.27:972][115]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:21:27)
+[2020.03.26-14.21.27:972][115]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.21.28:006][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033575s)
+[2020.03.26-14.21.28:006][115]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.21.28:007][115]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2020.03.26-14.21.28:007][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.034312s)
+[2020.03.26-14.21.28:044][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.03.26-14.21.28:068][115]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.21.28:080][115]LogInit: FAudioDevice initialized.
+[2020.03.26-14.21.28:094][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.21.28:311][115]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.21.28:317][115]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.21.28
+[2020.03.26-14.21.28:318][115]LogWorld: Bringing up level for play took: 0.007207
+[2020.03.26-14.21.28:339][115]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.053
+[2020.03.26-14.21.28:339][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.21.28:344][115]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.22.23:967][459]LogCharacterMovement: Enemy_BP_C_2 is stuck and failed to move! Velocity: X=44.98 Y=46.01 Z=0.00 Location: X=-1312.67 Y=1241.65 Z=-227.07 Normal: X=0.62 Y=-0.40 Z=-0.68 PenetrationDepth:10.643 Actor:Enemy_BP_C_4 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-14.22.28:538][649]LogCharacterMovement: Enemy_BP_C_3 is stuck and failed to move! Velocity: X=-4.27 Y=44.62 Z=0.00 Location: X=-1271.98 Y=-24.38 Z=-227.23 Normal: X=-0.00 Y=1.00 Z=-0.00 PenetrationDepth:2.882 Actor:Cube59 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.26-14.24.00:339][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.24.00:352][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.24.00:443][744]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.24.00:480][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.24.00:481][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.24.00:535][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.03.26-14.24.00:564][745]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.03.26-14.24.08:934][501]BlueprintLog: New page: Compile BP_VampireGM
+[2020.03.26-14.24.09:196][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.03.26-14.24.16:153][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_VampireGM" FILE="../../../../../Projects/Blood-Ascent/Content/GameMode/BP_VampireGM.uasset" SILENT=true
+[2020.03.26-14.24.16:223][133]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/BP_VampireGMD84FF28149C18148DC1802B941FB7588.tmp' to '../../../../../Projects/Blood-Ascent/Content/GameMode/BP_VampireGM.uasset'
+[2020.03.26-14.24.33:908][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.26-14.24.38:732][256]Cmd: stat fps
+[2020.03.26-14.24.52:903][780]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.24.52:943][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.24.52:944][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.24.52:944][780]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:24:52)
+[2020.03.26-14.24.52:944][780]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.24.52:987][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042014s)
+[2020.03.26-14.24.52:987][780]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.24.52:988][780]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2020.03.26-14.24.52:988][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.043086s)
+[2020.03.26-14.24.53:036][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.03.26-14.24.53:061][780]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.24.53:072][780]LogInit: FAudioDevice initialized.
+[2020.03.26-14.24.53:086][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.24.53:349][780]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.24.53:362][780]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.24.53
+[2020.03.26-14.24.53:363][780]LogWorld: Bringing up level for play took: 0.013237
+[2020.03.26-14.24.53:391][780]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.999
+[2020.03.26-14.24.53:391][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.24.53:400][780]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.27.30:692][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.27.30:704][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.27.30:779][564]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.27.30:819][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.27.30:819][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.27.30:907][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.26-14.27.30:924][565]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.03.26-14.27.37:213][190]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.27.37:245][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.27.37:246][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.27.37:246][190]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:27:37)
+[2020.03.26-14.27.37:246][190]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.27.37:280][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034144s)
+[2020.03.26-14.27.37:281][190]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.27.37:281][190]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2020.03.26-14.27.37:281][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.034947s)
+[2020.03.26-14.27.37:312][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.03.26-14.27.37:335][190]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.27.37:346][190]LogInit: FAudioDevice initialized.
+[2020.03.26-14.27.37:360][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.27.37:650][190]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.27.37:667][190]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.27.37
+[2020.03.26-14.27.37:669][190]LogWorld: Bringing up level for play took: 0.017791
+[2020.03.26-14.27.37:706][190]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.313
+[2020.03.26-14.27.37:706][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.27.37:713][190]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.28.45:746][385]LogCharacterMovement: Enemy_BP_C_4 is stuck and failed to move! Velocity: X=-44.42 Y=-1.90 Z=0.00 Location: X=-476.29 Y=669.48 Z=-229.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:1.644 Actor:None Component:ModelComponent_7 BoneName:None (0 other events since notify)
+[2020.03.26-14.28.46:975][443]LogCharacterMovement: Enemy_BP_C_4 is stuck and failed to move! Velocity: X=-148.09 Y=-56.22 Z=0.00 Location: X=-590.68 Y=688.06 Z=-227.24 Normal: X=0.31 Y=0.83 Z=-0.46 PenetrationDepth:2.544 Actor:Enemy_BP_C_1 Component:CollisionCylinder BoneName:None (27 other events since notify)
+[2020.03.26-14.32.40:090][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.32.40:102][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.32.40:183][648]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.32.40:220][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.32.40:220][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.32.40:292][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.03.26-14.32.40:309][649]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.03.26-14.33.29:423][691]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Soul.Soul
+[2020.03.26-14.34.33:725][561]BlueprintLog: New page: Compile Soul
+[2020.03.26-14.34.33:998][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.03.26-14.34.34:476][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/Soul" FILE="../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Soul.uasset" SILENT=true
+[2020.03.26-14.34.34:521][598]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/SoulEEAFF981432D8D4A597B92B0694FB44A.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Soul.uasset'
+[2020.03.26-14.34.57:586][929]BlueprintLog: New page: Compile Soul
+[2020.03.26-14.34.57:829][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.03.26-14.34.58:220][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/Soul" FILE="../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Soul.uasset" SILENT=true
+[2020.03.26-14.34.58:247][957]LogSavePackage: Moving '../../../../../Projects/Blood-Ascent/Saved/SoulADE74AD74377BE4BB67D9F975160F893.tmp' to '../../../../../Projects/Blood-Ascent/Content/VirtualRealityBP/Blueprints/Soul.uasset'
+[2020.03.26-14.35.02:647][349]LogTemp: Repeating last play command: VR Preview
+[2020.03.26-14.35.02:684][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.35.02:684][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.26-14.35.02:684][349]PIE: New page: PIE session: MotionControllerMap (26 Mar 2020 14:35:02)
+[2020.03.26-14.35.02:685][349]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.26-14.35.02:718][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033882s)
+[2020.03.26-14.35.02:719][349]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.26-14.35.02:719][349]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2020.03.26-14.35.02:719][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.034618s)
+[2020.03.26-14.35.02:757][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.03.26-14.35.02:780][349]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.26-14.35.02:792][349]LogInit: FAudioDevice initialized.
+[2020.03.26-14.35.02:806][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.35.03:024][349]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.26-14.35.03:034][349]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.26-14.35.03
+[2020.03.26-14.35.03:035][349]LogWorld: Bringing up level for play took: 0.009055
+[2020.03.26-14.35.03:057][349]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.664
+[2020.03.26-14.35.03:057][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.35.03:063][349]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.26-14.35.39:299][942]LogCharacterMovement: Enemy_BP_C_1 is stuck and failed to move! Velocity: X=-29.40 Y=-102.14 Z=0.00 Location: X=1453.09 Y=30.42 Z=-227.00 Normal: X=0.92 Y=0.38 Z=0.00 PenetrationDepth:19.363 Actor:Enemy_BP_C_0 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-14.35.50:290][359]LogCharacterMovement: Enemy_BP_C_3 is stuck and failed to move! Velocity: X=6.25 Y=-47.37 Z=0.00 Location: X=1454.99 Y=39.67 Z=-209.83 Normal: X=0.98 Y=0.21 Z=-0.00 PenetrationDepth:18.994 Actor:Enemy_BP_C_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-14.35.51:321][396]LogCharacterMovement: Enemy_BP_C_3 is stuck and failed to move! Velocity: X=-48.39 Y=-174.63 Z=0.00 Location: X=1454.99 Y=39.67 Z=-209.83 Normal: X=0.96 Y=0.27 Z=0.00 PenetrationDepth:15.944 Actor:Enemy_BP_C_2 Component:CollisionCylinder BoneName:None (27 other events since notify)
+[2020.03.26-14.35.58:515][662]LogCharacterMovement: Enemy_BP_C_4 is stuck and failed to move! Velocity: X=51.35 Y=6.87 Z=0.00 Location: X=1349.50 Y=-67.46 Z=-225.21 Normal: X=-0.87 Y=-0.50 Z=-0.03 PenetrationDepth:7.072 Actor:Enemy_BP_C_3 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-14.36.00:943][750]LogCharacterMovement: Enemy_BP_C_0 is stuck and failed to move! Velocity: X=-70.69 Y=-26.38 Z=0.00 Location: X=1459.11 Y=5.64 Z=-195.31 Normal: X=-0.43 Y=0.90 Z=0.00 PenetrationDepth:27.052 Actor:Enemy_BP_C_3 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-14.36.02:054][788]LogCharacterMovement: Enemy_BP_C_0 is stuck and failed to move! Velocity: X=-17.18 Y=-53.74 Z=0.00 Location: X=1450.96 Y=21.77 Z=-195.31 Normal: X=-0.39 Y=0.92 Z=0.00 PenetrationDepth:5.432 Actor:Enemy_BP_C_3 Component:CollisionCylinder BoneName:None (26 other events since notify)
+[2020.03.26-14.36.12:037][153]LogCharacterMovement: Enemy_BP_C_3 is stuck and failed to move! Velocity: X=333.93 Y=-95.56 Z=0.00 Location: X=1259.70 Y=-67.39 Z=-225.21 Normal: X=-0.59 Y=-0.75 Z=-0.29 PenetrationDepth:27.110 Actor:Enemy_BP_C_0 Component:CollisionCylinder BoneName:None (8 other events since notify)
+[2020.03.26-14.38.29:039][575]LogCharacterMovement: Enemy_BP_C_15 is stuck and failed to move! Velocity: X=3.55 Y=1.83 Z=0.00 Location: X=63.28 Y=-490.55 Z=-225.21 Normal: X=-0.20 Y=-0.98 Z=0.00 PenetrationDepth:3.513 Actor:Enemy_BP_C_13 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.03.26-14.39.50:986][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.39.51:002][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-14.39.51:100][357]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.26-14.39.51:135][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.26-14.39.51:136][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.26-14.39.51:196][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.03.26-14.39.51:218][358]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.03.26-14.40.00:587][144]BlueprintLog: New page: Compile Soul
+[2020.03.26-14.40.00:821][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.03.26-14.40.03:720][368]LogSlate: Window 'BP_VampireGM' being destroyed
+[2020.03.26-14.40.03:733][368]LogSlate: Window 'BP_VampireGM' being destroyed
+[2020.03.26-14.40.03:733][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.26-14.40.11:253][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.03.26-14.40.30:991][441]LogUObjectArray: Warning: Other object in slot
+[2020.03.26-14.40.31:006][441]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.26-14.40.32:591][441]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.585 s
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: 
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: Stack: 
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff80db0c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff80d386fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff80d394e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff8223c37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff819655cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff819611e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff828b65984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff828d515e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff828bad70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff828baa302 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff828ba9a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff63f537a6a UE4Editor.exe!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff63f54554c UE4Editor.exe!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff63f5455ca UE4Editor.exe!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff63f55316c UE4Editor.exe!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff63f555b8e UE4Editor.exe!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff879427bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: [Callstack] 0x00007ff87aa8ced1 ntdll.dll!UnknownFunction []
+[2020.03.26-14.40.32:591][441]LogOutputDevice: Error: 
+[2020.03.26-14.40.32:622][441]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,1004 @@
+﻿Log file open, 03/16/20 16:47:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BloodAscent
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.360255
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMixedReality
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Apps/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.16-16.47.13:704][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.16-16.47.13:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.16-16.47.13:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:706][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:710][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.16-16.47.13:710][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.16-16.47.13:711][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.16-16.47.13:711][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.16-16.47.13:711][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.16-16.47.13:727][  0]LogHAL: Display: Platform has ~ 16 GB [17125011456 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.16-16.47.13:727][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.16-16.47.13:727][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.16-16.47.13:727][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:727][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.16-16.47.13:727][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.16-16.47.13:727][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:727][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.16-16.47.13:727][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:727][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/BloodAscent/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.16-16.47.13:728][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.16-16.47.13:731][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.16-16.47.13:731][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.16-16.47.13:731][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/BloodAscent/Saved/Config/Windows/Engine.ini]
+[2020.03.16-16.47.13:731][  0]LogInit: Computer: PPRSB1026-G03
+[2020.03.16-16.47.13:731][  0]LogInit: User: k1706289
+[2020.03.16-16.47.13:731][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.16-16.47.13:731][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.16-16.47.13:732][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.16-16.47.13:732][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.16-16.47.13:732][  0]LogMemory: Process Physical Memory: 100.89 MB used, 100.89 MB peak
+[2020.03.16-16.47.13:732][  0]LogMemory: Process Virtual Memory: 98.30 MB used, 98.30 MB peak
+[2020.03.16-16.47.13:732][  0]LogMemory: Physical Memory: 6323.62 MB used,  10008.06 MB free, 16331.68 MB total
+[2020.03.16-16.47.13:732][  0]LogMemory: Virtual Memory: 4680.23 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.03.16-16.47.13:770][  0]LogInit: Using OS detected language (en-US).
+[2020.03.16-16.47.13:770][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.16-16.47.13:772][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.16-16.47.13:962][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.16-16.47.14:047][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.16-16.47.14:047][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.16-16.47.15:985][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.16-16.47.16:060][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.03.16-16.47.16:060][  0]LogD3D11RHI:       8079/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.16-16.47.16:063][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.16-16.47.16:063][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.16-16.47.16:063][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.16-16.47.16:071][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.16-16.47.16:071][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.16-16.47.16:071][  0]LogWindows: EnumDisplayDevices:
+[2020.03.16-16.47.16:072][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.03.16-16.47.16:073][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.03.16-16.47.16:075][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.03.16-16.47.16:076][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.03.16-16.47.16:077][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.16-16.47.16:077][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.03.16-16.47.16:077][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2020.03.16-16.47.16:077][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2020.03.16-16.47.16:077][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.03.16-16.47.16:124][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.16-16.47.16:127][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.16-16.47.16:128][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.16-16.47.16:128][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.16-16.47.16:142][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.16-16.47.16:670][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.16-16.47.16:687][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.16-16.47.16:705][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.16-16.47.16:721][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.16-16.47.16:740][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.16-16.47.16:757][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.16-16.47.16:774][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.16-16.47.16:791][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.16-16.47.16:801][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.16-16.47.16:890][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.16-16.47.16:891][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.16-16.47.16:891][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.16-16.47.16:893][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.16-16.47.16:949][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.16-16.47.16:949][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.16-16.47.16:977][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.16-16.47.16:977][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.16-16.47.16:991][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.16-16.47.17:005][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.16-16.47.17:019][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.16-16.47.17:036][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.16-16.47.17:085][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.16-16.47.17:085][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.16-16.47.17:086][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.16-16.47.17:100][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.16-16.47.17:183][  0]LogShaderCompilers: Guid format shader working directory is 34 characters bigger than the processId version (D:/BloodAscent/Intermediate/Shaders/WorkingDirectory/14780/).
+[2020.03.16-16.47.17:183][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/k1706289/AppData/Local/Temp/UnrealShaderWorkingDir/3147EE2C4C8BB2D693CD1695D6AFD5EA/'.
+[2020.03.16-16.47.17:188][  0]LogXGEController: Cleaning working directory: C:/Users/k1706289/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.16-16.47.17:189][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.16-16.47.17:189][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.16-16.47.17:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.16-16.47.18:789][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.16-16.47.18:837][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/k1706289/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.16-16.47.18:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/k1706289/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.16-16.47.18:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/BloodAscent/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.16-16.47.18:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.16-16.47.18:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/BloodAscent/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.16-16.47.18:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.16-16.47.18:850][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.16-16.47.18:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.16-16.47.18:850][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.16-16.47.18:864][  0]LogDerivedDataCache: Using Local data cache path C:/Users/k1706289/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.16-16.47.18:864][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.16-16.47.18:864][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.16-16.47.18:887][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.16-16.47.18:888][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.16-16.47.18:898][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.16-16.47.19:188][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2020.03.16-16.47.19:550][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.16-16.47.19:747][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.16-16.47.19:747][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.16-16.47.19:747][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.16-16.47.19:747][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.16-16.47.19:747][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.16-16.47.19:770][  0]LogNetVersion: BloodAscent 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 474268916)
+[2020.03.16-16.47.20:533][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061588 seconds
+[2020.03.16-16.47.20:540][  0]LogUObjectArray: 42226 objects as part of root set at end of initial load.
+[2020.03.16-16.47.20:540][  0]LogUObjectAllocator: 7329400 out of 0 bytes used by permanent object pool.
+[2020.03.16-16.47.20:540][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.16-16.47.23:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.16-16.47.23:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.16-16.47.23:766][  0]SourceControl: Source control is disabled
+[2020.03.16-16.47.23:767][  0]SourceControl: Source control is disabled
+[2020.03.16-16.47.23:768][  0]SourceControl: Source control is disabled
+[2020.03.16-16.47.23:770][  0]SourceControl: Source control is disabled
+[2020.03.16-16.47.23:896][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.16-16.47.24:142][  0]LogOcInput: OculusInput pre-init called
+[2020.03.16-16.47.25:207][  0]LogEngine: Initializing Engine...
+[2020.03.16-16.47.25:874][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2893BC35
+[2020.03.16-16.47.25:875][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.16-16.47.26:177][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.16-16.47.26:197][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.16-16.47.26:304][  0]LogInit: XAudio2 using 'Speakers (3- VIVE Pro Mutimedia Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.03.16-16.47.26:341][  0]LogInit: FAudioDevice initialized.
+[2020.03.16-16.47.26:341][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.16-16.47.26:414][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/k1706289/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.16-16.47.26:420][  0]LogInit: Texture streaming: Enabled
+[2020.03.16-16.47.26:450][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.16-16.47.26:479][  0]LogInit: Transaction tracking system initialized
+[2020.03.16-16.47.26:519][  0]BlueprintLog: New page: Editor Load
+[2020.03.16-16.47.26:652][  0]LocalizationService: Localization service is disabled
+[2020.03.16-16.47.27:158][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.16-16.47.27:158][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.16-16.47.27:480][  0]LogFileCache: Scanning file cache for directory 'D:/BloodAscent/Content/' took 0.03s
+[2020.03.16-16.47.27:480][  0]SourceControl: Source control is disabled
+[2020.03.16-16.47.27:480][  0]Cmd: MAP LOAD FILE="D:/BloodAscent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.16-16.47.27:481][  0]LightingResults: New page: Lighting Build
+[2020.03.16-16.47.27:485][  0]MapCheck: New page: Map Check
+[2020.03.16-16.47.27:485][  0]LightingResults: New page: Lighting Build
+[2020.03.16-16.47.27:515][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.16-16.47.29:786][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.16-16.47.29:826][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.16-16.47.29:864][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.03.16-16.47.29:864][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.16-16.47.29:864][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2020.03.16-16.47.29:864][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 2.384
+[2020.03.16-16.47.29:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.47.30:001][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.47.30:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.47.30:016][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.47.30:029][  0]LogCollectionManager: Loaded 0 collections in 0.004892 seconds
+[2020.03.16-16.47.30:071][  0]LogFileCache: Scanning file cache for directory 'D:/BloodAscent/Saved/Collections/' took 0.01s
+[2020.03.16-16.47.30:071][  0]LogFileCache: Scanning file cache for directory 'D:/BloodAscent/Content/Developers/k1706289/Collections/' took 0.01s
+[2020.03.16-16.47.30:071][  0]LogFileCache: Scanning file cache for directory 'D:/BloodAscent/Content/Collections/' took 0.01s
+[2020.03.16-16.47.30:071][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.16-16.47.30:079][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2741 classes and 666 folders.
+[2020.03.16-16.47.30:091][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.16-16.47.30:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.16-16.47.30:305][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.16-16.47.30:312][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.16-16.47.30:331][  0]LogSlate: Took 0.005662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.16-16.47.30:338][  0]LogSlate: Took 0.006064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.16-16.47.30:347][  0]LogSlate: Took 0.005340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.16-16.47.30:434][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.03.16-16.47.30:608][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.16-16.47.30:608][  0]LogLoad: (Engine Initialization) Total time: 21.82 seconds
+[2020.03.16-16.47.30:608][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.16-16.47.30:661][  0]LogAssetRegistry: Asset discovery search completed in 11.4944 seconds
+[2020.03.16-16.47.30:663][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.16-16.47.30:663][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.03.16-16.47.30:668][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.16-16.47.31:661][ 72]LogSlate: Took 0.006073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-16.47.31:663][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.16-16.47.31:667][ 72]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Enemy_BP.Enemy_BP
+[2020.03.16-16.47.31:943][ 72]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.16-16.47.32:764][ 72]LogSlate: Took 0.005498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.16-16.47.33:134][ 73]LogSlate: Took 0.005276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.16-16.47.36:509][392]LogTemp: Repeating last play command: VR Preview
+[2020.03.16-16.47.36:535][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.47.36:535][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-16.47.36:535][392]PIE: New page: PIE session: MotionControllerMap (16 Mar 2020 16:47:36)
+[2020.03.16-16.47.36:547][392]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.16-16.47.36:583][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034981s)
+[2020.03.16-16.47.36:583][392]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.16-16.47.36:583][392]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2020.03.16-16.47.36:583][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.035793s)
+[2020.03.16-16.47.36:612][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.03.16-16.47.36:686][392]LogInit: XAudio2 using 'Speakers (3- VIVE Pro Mutimedia Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.03.16-16.47.36:710][392]LogInit: FAudioDevice initialized.
+[2020.03.16-16.47.36:716][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.47.36:756][392]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.16-16.47.36:763][392]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.16-16.47.36
+[2020.03.16-16.47.36:763][392]LogWorld: Bringing up level for play took: 0.007258
+[2020.03.16-16.47.36:780][392]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.16-16.47.36:784][392]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.16-16.47.36:785][392]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.16-16.47.36:788][392]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=1772.000 Y=1806.000 Z=269.000
+[2020.03.16-16.47.36:788][392]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=-1790.000 Y=1806.000 Z=269.000
+[2020.03.16-16.47.36:788][392]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=-1790.000 Y=-400.000 Z=269.000
+[2020.03.16-16.47.36:788][392]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=1781.000 Y=-400.000 Z=269.000
+[2020.03.16-16.47.36:790][392]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.213
+[2020.03.16-16.47.36:790][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.47.36:831][392]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.16-16.47.36:839][393]LogRenderer: Reallocating scene render targets to support 3120x1732 Format 26 NumSamples 1 (Frame:1).
+[2020.03.16-16.47.37:169][394]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.03.16-16.48.11:910][723]LogBlueprintUserMessages: [Enemy_BP_C_1] 3339.146973
+[2020.03.16-16.48.16:154][891]LogBlueprintUserMessages: [Enemy_BP_C_2] 3517.397949
+[2020.03.16-16.49.40:541][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.49.40:609][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.49.40:646][527]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.16-16.49.40:678][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-16.49.40:678][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.49.40:731][527]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.16-16.49.40:745][528]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.16-16.49.44:827][970]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.03.16-16.50.08:403][311]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.16-16.50.08:654][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.03.16-16.50.10:922][508]LogTemp: Repeating last play command: VR Preview
+[2020.03.16-16.50.10:965][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.50.10:965][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-16.50.10:965][508]PIE: New page: PIE session: MotionControllerMap (16 Mar 2020 16:50:10)
+[2020.03.16-16.50.10:965][508]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.03.16-16.50.11:001][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036445s)
+[2020.03.16-16.50.11:002][508]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.16-16.50.11:002][508]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2020.03.16-16.50.11:002][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.037088s)
+[2020.03.16-16.50.11:039][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.03.16-16.50.11:112][508]LogInit: XAudio2 using 'Speakers (3- VIVE Pro Mutimedia Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.03.16-16.50.11:136][508]LogInit: FAudioDevice initialized.
+[2020.03.16-16.50.11:141][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.50.11:173][508]LogLoad: Game class is 'BP_VampireGM_C'
+[2020.03.16-16.50.11:181][508]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.03.16-16.50.11
+[2020.03.16-16.50.11:182][508]LogWorld: Bringing up level for play took: 0.008781
+[2020.03.16-16.50.11:195][508]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=1772.000 Y=1806.000 Z=269.000
+[2020.03.16-16.50.11:195][508]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=-1790.000 Y=1806.000 Z=269.000
+[2020.03.16-16.50.11:195][508]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=-1790.000 Y=-400.000 Z=269.000
+[2020.03.16-16.50.11:195][508]LogBlueprintUserMessages: [MotionControllerMap_C_2] X=1781.000 Y=-400.000 Z=269.000
+[2020.03.16-16.50.11:201][508]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.388
+[2020.03.16-16.50.11:201][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.50.11:240][508]LogAudio: Warning: Detected orphaned looping sound '3952-killers-by-kevin-macleod'.
+[2020.03.16-16.50.11:264][510]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.03.16-16.50.27:691][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.50.27:788][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.50.28:109][184]LogSlate: Window 'BloodAscent Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.16-16.50.28:156][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-16.50.28:157][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.03.16-16.50.28:206][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.16-16.50.28:487][185]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.16-16.50.35:946][928]Cmd: TRANSACTION UNDO
+[2020.03.16-16.50.35:946][928]LogEditorTransaction: Undo Change Collision Profile
+[2020.03.16-16.50.42:047][505]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.03.16-16.50.42:264][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.03.16-16.50.57:852][ 96]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.03.16-16.50.57:855][ 96]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.03.16-16.51.02:481][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-16.51.02:627][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Button.Button
+[2020.03.16-16.51.21:346][795]LogSlate: Took 0.011864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.16-16.51.35:847][494]BlueprintLog: New page: Compile Button
+[2020.03.16-16.51.36:031][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.03.16-16.51.37:304][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/Button" FILE="D:/BloodAscent/Content/VirtualRealityBP/Blueprints/Button.uasset" SILENT=true
+[2020.03.16-16.51.37:325][638]LogSavePackage: Moving 'D:/BloodAscent/Saved/ButtonF3A8F9A648613D7CD0D226BB79FC2C73.tmp' to 'D:/BloodAscent/Content/VirtualRealityBP/Blueprints/Button.uasset'
+[2020.03.16-16.51.40:571][ 18]LogSlate: Window 'Button' being destroyed
+[2020.03.16-16.51.40:575][ 18]LogSlate: Window 'Button' being destroyed
+[2020.03.16-16.51.43:033][267]LogEditorViewport: Clicking on Actor (LMB): Torch_C (Torch8)
+[2020.03.16-16.51.45:278][497]LogEditorViewport: Clicking on Actor (LMB): Button_C (Button)
+[2020.03.16-16.51.46:820][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-16.52.01:075][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewFileMediaSource'
+[2020.03.16-16.52.01:075][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:075][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewFileMediaSource'
+[2020.03.16-16.52.01:076][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:076][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewFileMediaSource'
+[2020.03.16-16.52.01:076][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:076][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewFileMediaSource'
+[2020.03.16-16.52.01:076][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:077][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:077][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:077][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2'
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file for asset '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2' while loading NULL.
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer'
+[2020.03.16-16.52.01:078][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:079][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer'
+[2020.03.16-16.52.01:079][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:079][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer'
+[2020.03.16-16.52.01:079][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:079][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer'
+[2020.03.16-16.52.01:079][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:105][362]LogLinker: Warning: Can't find file '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2'
+[2020.03.16-16.52.01:105][362]LogLinker: Warning: Can't find file for asset '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2' while loading NULL.
+[2020.03.16-16.52.01:175][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewFileMediaSource'
+[2020.03.16-16.52.01:175][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:175][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer'
+[2020.03.16-16.52.01:175][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:175][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewFileMediaSource'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewFileMediaSource'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:176][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:177][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewFileMediaSource'
+[2020.03.16-16.52.01:177][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:177][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer'
+[2020.03.16-16.52.01:177][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:177][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:177][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:182][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewFileMediaSource'
+[2020.03.16-16.52.01:182][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:182][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewFileMediaSource'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewFileMediaSource'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewFileMediaSource'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2'
+[2020.03.16-16.52.01:183][362]LogLinker: Warning: Can't find file for asset '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2' while loading NULL.
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer'
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer'
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer'
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer'
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2'
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file for asset '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2' while loading NULL.
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewFileMediaSource'
+[2020.03.16-16.52.01:184][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer'
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewFileMediaSource'
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer'
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewFileMediaSource'
+[2020.03.16-16.52.01:185][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer'
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewFileMediaSource'
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer'
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer'
+[2020.03.16-16.52.01:186][362]LoadErrors: Failed to load /Game/Movies/1_NewMediaPlayer.1_NewMediaPlayer Referenced by Default__TutorialMap_C
+[2020.03.16-16.52.01:186][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:187][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer'
+[2020.03.16-16.52.01:187][362]LoadErrors: Failed to load /Game/Movies/2_NewMediaPlayer.2_NewMediaPlayer Referenced by Default__TutorialMap_C
+[2020.03.16-16.52.01:187][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:187][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer'
+[2020.03.16-16.52.01:187][362]LoadErrors: Failed to load /Game/Movies/3_NewMediaPlayer.3_NewMediaPlayer Referenced by Default__TutorialMap_C
+[2020.03.16-16.52.01:187][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:187][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer'
+[2020.03.16-16.52.01:187][362]LoadErrors: Failed to load /Game/Movies/4_NewMediaPlayer.4_NewMediaPlayer Referenced by Default__TutorialMap_C
+[2020.03.16-16.52.01:187][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer' while loading NULL.
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewFileMediaSource'
+[2020.03.16-16.52.01:188][362]LoadErrors: Failed to load /Game/Movies/1_NewFileMediaSource.1_NewFileMediaSource Referenced by K2Node_CallFunction_0
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewFileMediaSource'
+[2020.03.16-16.52.01:188][362]LoadErrors: Failed to load /Game/Movies/2_NewFileMediaSource.2_NewFileMediaSource Referenced by K2Node_CallFunction_1
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewFileMediaSource'
+[2020.03.16-16.52.01:188][362]LoadErrors: Failed to load /Game/Movies/3_NewFileMediaSource.3_NewFileMediaSource Referenced by K2Node_CallFunction_2
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:188][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewFileMediaSource'
+[2020.03.16-16.52.01:189][362]LoadErrors: Failed to load /Game/Movies/4_NewFileMediaSource.4_NewFileMediaSource Referenced by K2Node_CallFunction_3
+[2020.03.16-16.52.01:189][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewFileMediaSource' while loading NULL.
+[2020.03.16-16.52.01:198][362]LogLinker: Warning: Can't find file '/Game/Movies/1_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:199][362]LoadErrors: Failed to load /Game/Movies/1_NewMediaPlayer_Video_Mat.1_NewMediaPlayer_Video_Mat Referenced by Cube2_46
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/1_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file '/Game/Movies/2_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:199][362]LoadErrors: Failed to load /Game/Movies/2_NewMediaPlayer_Video_Mat.2_NewMediaPlayer_Video_Mat Referenced by Cube3
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/2_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file '/Game/Movies/4_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:199][362]LoadErrors: Failed to load /Game/Movies/4_NewMediaPlayer_Video_Mat.4_NewMediaPlayer_Video_Mat Referenced by Cube4
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/4_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file '/Game/Movies/3_NewMediaPlayer_Video_Mat'
+[2020.03.16-16.52.01:199][362]LoadErrors: Failed to load /Game/Movies/3_NewMediaPlayer_Video_Mat.3_NewMediaPlayer_Video_Mat Referenced by Cube5
+[2020.03.16-16.52.01:199][362]LogLinker: Warning: Can't find file for asset '/Game/Movies/3_NewMediaPlayer_Video_Mat' while loading NULL.
+[2020.03.16-16.52.01:200][362]LogLinker: Warning: Can't find file '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2'
+[2020.03.16-16.52.01:200][362]LoadErrors: Failed to load /Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2.M_BrickFloor_Clean_Inst_2 Referenced by frozen_Room_0
+[2020.03.16-16.52.01:200][362]LogLinker: Warning: Can't find file for asset '/Game/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst_2' while loading NULL.
+[2020.03.16-16.52.01:354][362]LogAIModule: Creating AISystem for world TutorialMap
+[2020.03.16-16.52.01:368][362]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/TutorialMap.TutorialMap
+[2020.03.16-16.52.01:402][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.16-16.52.02:787][362]LogSlate: Window 'Save Content' being destroyed
+[2020.03.16-16.52.02:793][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/MotionControllerMap" FILE="D:/BloodAscent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.16-16.52.02:825][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.16-16.52.03:324][362]LogSavePackage: Moving 'D:/BloodAscent/Saved/MotionControllerMap0E4C105840D08BDDDCC9CB9D67BE51F4.tmp' to 'D:/BloodAscent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.03.16-16.52.03:367][362]LogFileHelpers: Saving map 'MotionControllerMap' took 0.575
+[2020.03.16-16.52.03:368][362]Cmd: MAP LOAD FILE="D:/BloodAscent/Content/VirtualRealityBP/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.16-16.52.03:368][362]LightingResults: New page: Lighting Build
+[2020.03.16-16.52.03:369][362]LoadErrors: New page: Loading map: TutorialMap.umap
+[2020.03.16-16.52.03:372][362]MapCheck: New page: Map Check
+[2020.03.16-16.52.03:372][362]LightingResults: New page: Lighting Build
+[2020.03.16-16.52.03:407][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.03.16-16.52.03:412][362]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.16-16.52.03:447][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.03.16-16.52.03:487][362]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.16-16.52.03:488][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2020.03.16-16.52.03:488][362]LogFileHelpers: Loading map 'TutorialMap' took 0.120
+[2020.03.16-16.52.03:633][362]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.03.16-16.52.05:123][533]LogEditorViewport: Clicking on Actor (LMB): Button_C (Button)
+[2020.03.16-16.52.11:659][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-16.52.36:465][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2020.03.16-16.52.40:137][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2020.03.16-16.52.40:492][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.03.16-16.52.43:208][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.16-16.52.43:273][ 69]LogTemp: Repeating last play command: VR Preview
+[2020.03.16-16.52.43:301][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.03.16-16.52.43:301][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-16.52.43:301][ 69]PIE: New page: PIE session: TutorialMap (16 Mar 2020 16:52:43)
+[2020.03.16-16.52.43:301][ 69]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap
+[2020.03.16-16.52.43:307][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006137s)
+[2020.03.16-16.52.43:307][ 69]LogAIModule: Creating AISystem for world TutorialMap
+[2020.03.16-16.52.43:308][ 69]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2020.03.16-16.52.43:308][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/TutorialMap.TutorialMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006792s)
+[2020.03.16-16.52.43:342][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.03.16-16.52.43:416][ 69]LogInit: XAudio2 using 'Speakers (3- VIVE Pro Mutimedia Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.03.16-16.52.43:440][ 69]LogInit: FAudioDevice initialized.
+[2020.03.16-16.52.43:445][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-16.52.43:477][ 69]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.16-16.52.43:477][ 69]LogLoad: Game class is 'GameModeBase'
+[2020.03.16-16.52.43:479][ 69]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.03.16-16.52.43
+[2020.03.16-16.52.43:479][ 69]LogWorld: Bringing up level for play took: 0.001598
+[2020.03.16-16.52.43:493][ 69]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.03.16-16.52.43:493][ 69]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2020.03.16-16.52.47:175][ 69]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.682 s
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: 
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: Stack: 
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd13dd386 UE4Editor-Core.dll!DispatchCheckVerify<bool,<lambda_484a8128486ec9f23ed04954e2169b1a> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd1037894 UE4Editor-Core.dll!FMatrix::ErrorEnsure() [d:\build\++ue4\sync\engine\source\runtime\core\private\math\matrix.cpp:8]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc306aaba UE4Editor-Engine.dll!FMatrix::InverseFast() [d:\build\++ue4\sync\engine\source\runtime\core\public\math\matrix.inl:268]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc38a8ae8 UE4Editor-Engine.dll!UKismetMathLibrary::MinimumAreaRectangle() [d:\build\++ue4\sync\engine\source\runtime\engine\private\kismetmathlibrary.cpp:960]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc38e06b4 UE4Editor-Engine.dll!UKismetMathLibrary::execMinimumAreaRectangle() [d:\build\++ue4\sync\engine\source\runtime\engine\classes\kismet\kismetmathlibrary.h:134]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd09abac8 UE4Editor-CoreUObject.dll!UFunction::Invoke() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:4643]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0ba00e2 UE4Editor-CoreUObject.dll!UObject::CallFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:904]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbcbc1 UE4Editor-CoreUObject.dll!UObject::ProcessContextOpcode() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2314]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe98d UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0b95efb UE4Editor-CoreUObject.dll!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:809]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe6a9 UE4Editor-CoreUObject.dll!ProcessLocalFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1033]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe98d UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0b95efb UE4Editor-CoreUObject.dll!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:809]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe6a9 UE4Editor-CoreUObject.dll!ProcessLocalFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1033]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe98d UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe378 UE4Editor-CoreUObject.dll!UObject::ProcessInternal() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1058]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd09abac8 UE4Editor-CoreUObject.dll!UFunction::Invoke() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:4643]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbdf07 UE4Editor-CoreUObject.dll!UObject::ProcessEvent() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1464]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3129ff3 UE4Editor-Engine.dll!AActor::ProcessEvent() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:769]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc30f7358 UE4Editor-Engine.dll!AActor::BeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3383]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3101af6 UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3343]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3126b2b UE4Editor-Engine.dll!AActor::PostActorConstruction() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3200]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc310ddcb UE4Editor-Engine.dll!AActor::FinishSpawning() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3099]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc377ac6f UE4Editor-Engine.dll!UGameplayStatics::FinishSpawningActor() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gameplaystatics.cpp:603]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3154596 UE4Editor-Engine.dll!UGameplayStatics::execFinishSpawningActor() [d:\build\++ue4\sync\engine\source\runtime\engine\classes\kismet\gameplaystatics.h:42]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd09abac8 UE4Editor-CoreUObject.dll!UFunction::Invoke() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:4643]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0ba00e2 UE4Editor-CoreUObject.dll!UObject::CallFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:904]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbcbc1 UE4Editor-CoreUObject.dll!UObject::ProcessContextOpcode() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2314]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bd4be6 UE4Editor-CoreUObject.dll!UObject::execLetObj() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2136]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe98d UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+[2020.03.16-16.52.47:175][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0b95efb UE4Editor-CoreUObject.dll!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:809]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe6a9 UE4Editor-CoreUObject.dll!ProcessLocalFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1033]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe98d UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbe378 UE4Editor-CoreUObject.dll!UObject::ProcessInternal() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1058]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd09abac8 UE4Editor-CoreUObject.dll!UFunction::Invoke() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:4643]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdd0bbdf07 UE4Editor-CoreUObject.dll!UObject::ProcessEvent() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1464]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3129ff3 UE4Editor-Engine.dll!AActor::ProcessEvent() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:769]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc30f7358 UE4Editor-Engine.dll!AActor::BeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3383]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3101af6 UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:3343]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc421cb99 UE4Editor-Engine.dll!AWorldSettings::NotifyBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\worldsettings.cpp:253]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc3782911 UE4Editor-Engine.dll!AGameStateBase::HandleBeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gamestatebase.cpp:177]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc41d754e UE4Editor-Engine.dll!UWorld::BeginPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\world.cpp:3948]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc37499af UE4Editor-Engine.dll!UGameInstance::StartPlayInEditorGameInstance() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gameinstance.cpp:413]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc817be44 UE4Editor-UnrealEd.dll!UEditorEngine::CreatePIEGameInstance() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:3341]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc819b044 UE4Editor-UnrealEd.dll!UEditorEngine::PlayInEditor() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:2466]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc81b319f UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlayMapRequest() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:1280]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc7c8fc4a UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1532]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffdc84ad396 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff619226bb1 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3967]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff61923554c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:168]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff6192355ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff61924316c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff619245b8e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffe32ac7974 KERNEL32.DLL!UnknownFunction []
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: [Callstack] 0x00007ffe358ca261 ntdll.dll!UnknownFunction []
+[2020.03.16-16.52.47:176][ 69]LogOutputDevice: Error: 
+[2020.03.16-16.52.47:178][ 69]LogStats:                SubmitErrorReport -  0.000 s

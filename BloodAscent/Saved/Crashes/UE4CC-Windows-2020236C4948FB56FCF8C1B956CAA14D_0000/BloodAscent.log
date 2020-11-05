@@ -1,0 +1,1248 @@
+﻿Log file open, 01/14/20 15:10:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BloodAscent
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.193041
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.14-15.10.41:877][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.14-15.10.41:877][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.14-15.10.41:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:877][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.14-15.10.41:877][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.01.14-15.10.41:877][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.01.14-15.10.41:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.01.14-15.10.41:878][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:879][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.14-15.10.41:879][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:879][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:884][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.14-15.10.41:884][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.14-15.10.41:885][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.14-15.10.41:885][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.14-15.10.41:885][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.14-15.10.41:947][  0]LogHAL: Display: Platform has ~ 16 GB [17103937536 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.14-15.10.41:947][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.14-15.10.41:947][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.14-15.10.41:947][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.14-15.10.41:948][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.14-15.10.41:949][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Config/Windows/Engine.ini]
+[2020.01.14-15.10.41:949][  0]LogInit: Computer: ETHAN_PC
+[2020.01.14-15.10.41:949][  0]LogInit: User: Ethan
+[2020.01.14-15.10.41:949][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.14-15.10.41:949][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.14-15.10.41:950][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.14-15.10.41:950][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.14-15.10.41:950][  0]LogMemory: Process Physical Memory: 96.83 MB used, 96.84 MB peak
+[2020.01.14-15.10.41:950][  0]LogMemory: Process Virtual Memory: 83.91 MB used, 83.91 MB peak
+[2020.01.14-15.10.41:950][  0]LogMemory: Physical Memory: 5769.03 MB used,  10542.55 MB free, 16311.59 MB total
+[2020.01.14-15.10.41:950][  0]LogMemory: Virtual Memory: 4624.96 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.01.14-15.10.41:973][  0]LogInit: Using OS detected language (en-GB).
+[2020.01.14-15.10.41:973][  0]LogInit: Using OS detected locale (en-GB).
+[2020.01.14-15.10.41:974][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.01.14-15.10.42:167][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.14-15.10.42:206][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.14-15.10.42:206][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.14-15.10.42:372][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.14-15.10.42:372][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.14-15.10.42:433][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.01.14-15.10.42:433][  0]LogD3D11RHI:       6052/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.14-15.10.42:435][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.14-15.10.42:435][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.14-15.10.42:435][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.14-15.10.42:442][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.14-15.10.42:442][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.14-15.10.42:442][  0]LogWindows: EnumDisplayDevices:
+[2020.01.14-15.10.42:442][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.01.14-15.10.42:442][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.01.14-15.10.42:443][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.14-15.10.42:443][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.14-15.10.42:443][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.14-15.10.42:443][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.01.14-15.10.42:443][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.01.14-15.10.42:443][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.01.14-15.10.42:443][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.01.14-15.10.42:488][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.14-15.10.42:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.14-15.10.42:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.14-15.10.42:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.14-15.10.42:504][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.14-15.10.42:835][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.14-15.10.42:850][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.14-15.10.42:866][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.14-15.10.42:882][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.14-15.10.42:898][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.14-15.10.42:913][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.14-15.10.42:928][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.14-15.10.42:943][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.14-15.10.42:951][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.14-15.10.43:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.14-15.10.43:046][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.14-15.10.43:097][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.14-15.10.43:097][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.14-15.10.43:124][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.14-15.10.43:124][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.14-15.10.43:138][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.14-15.10.43:153][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.14-15.10.43:167][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.14-15.10.43:182][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.14-15.10.43:230][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.14-15.10.43:230][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.14-15.10.43:230][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.14-15.10.43:239][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.14-15.10.43:294][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Intermediate/Shaders/WorkingDirectory/14540/).
+[2020.01.14-15.10.43:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ethan/AppData/Local/Temp/UnrealShaderWorkingDir/9E25E49B4B0639B2F7D35C8D16A0C910/'.
+[2020.01.14-15.10.43:297][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.14-15.10.43:297][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.14-15.10.43:297][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.14-15.10.43:870][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.14-15.10.43:921][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Ethan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.14-15.10.43:921][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ethan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.14-15.10.43:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.14-15.10.43:921][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.14-15.10.43:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.14-15.10.43:921][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.14-15.10.43:934][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.14-15.10.43:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.14-15.10.43:934][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.14-15.10.43:946][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.14-15.10.43:946][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.14-15.10.43:946][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.14-15.10.44:110][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.14-15.10.44:111][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.14-15.10.44:112][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.14-15.10.44:200][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2020.01.14-15.10.44:539][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.14-15.10.44:600][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.14-15.10.44:600][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.14-15.10.44:600][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.14-15.10.44:600][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.14-15.10.44:600][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.14-15.10.45:002][  0]LogNetVersion: BloodAscent 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 474268916)
+[2020.01.14-15.10.46:090][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.170639 seconds
+[2020.01.14-15.10.46:100][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.14-15.10.46:100][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.14-15.10.46:101][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.14-15.10.47:527][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.14-15.10.47:541][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.14-15.10.47:749][  0]SourceControl: Source control is disabled
+[2020.01.14-15.10.47:749][  0]SourceControl: Source control is disabled
+[2020.01.14-15.10.47:751][  0]SourceControl: Source control is disabled
+[2020.01.14-15.10.47:752][  0]SourceControl: Source control is disabled
+[2020.01.14-15.10.47:857][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.14-15.10.47:950][  0]LogOcInput: OculusInput pre-init called
+[2020.01.14-15.10.48:791][  0]LogEngine: Initializing Engine...
+[2020.01.14-15.10.48:792][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.14-15.10.48:793][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.14-15.10.49:584][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.14-15.10.49:599][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.14-15.10.49:682][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-15.10.49:705][  0]LogInit: FAudioDevice initialized.
+[2020.01.14-15.10.49:705][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.14-15.10.49:829][  0]LogDerivedDataCache: Saved boot cache 0.12s 86MB C:/Users/Ethan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.14-15.10.49:839][  0]LogInit: Texture streaming: Enabled
+[2020.01.14-15.10.49:857][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.14-15.10.49:884][  0]LogInit: Transaction tracking system initialized
+[2020.01.14-15.10.49:910][  0]BlueprintLog: New page: Editor Load
+[2020.01.14-15.10.50:014][  0]LocalizationService: Localization service is disabled
+[2020.01.14-15.10.50:685][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Content/' took 0.04s
+[2020.01.14-15.10.50:685][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.14-15.10.50:685][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.14-15.10.50:991][  0]SourceControl: Source control is disabled
+[2020.01.14-15.10.50:991][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.14-15.10.50:991][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2020.01.14-15.10.50:991][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.14-15.10.50:992][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2020.01.14-15.10.50:992][  0]LogFileHelpers: Loading map 'StartupMap' took 0.001
+[2020.01.14-15.10.51:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-15.10.51:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-15.10.51:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-15.10.51:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-15.10.51:131][  0]LogCollectionManager: Loaded 0 collections in 0.001821 seconds
+[2020.01.14-15.10.51:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Collections/' took 0.01s
+[2020.01.14-15.10.51:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Content/Developers/Ethan/Collections/' took 0.00s
+[2020.01.14-15.10.51:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan/Documents/GitHub/Blood-Ascent/Content/Collections/' took 0.00s
+[2020.01.14-15.10.51:147][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.14-15.10.51:156][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2733 classes and 661 folders.
+[2020.01.14-15.10.51:162][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.14-15.10.51:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:165][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:165][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-15.10.51:204][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.14-15.10.51:206][  0]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.01.14-15.10.51:264][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.14-15.10.51:267][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.14-15.10.51:269][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.14-15.10.51:371][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.01.14-15.10.51:458][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.14-15.10.51:458][  0]LogLoad: (Engine Initialization) Total time: 12.70 seconds
+[2020.01.14-15.10.51:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.14-15.10.51:490][  0]LogAssetRegistry: Asset discovery search completed in 7.3127 seconds
+[2020.01.14-15.10.51:492][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.14-15.10.51:492][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.01.14-15.10.51:494][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.14-15.10.51:510][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.14-15.10.52:485][ 98]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.14-15.10.56:286][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-15.12.37:839][511]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.01.14-15.12.37:857][511]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.01.14-15.12.37:882][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.14-15.12.37:882][511]Cmd: MAP LOAD FILE="../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.14-15.12.37:883][511]LightingResults: New page: Lighting Build
+[2020.01.14-15.12.37:883][511]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.01.14-15.12.37:883][511]MapCheck: New page: Map Check
+[2020.01.14-15.12.37:883][511]LightingResults: New page: Lighting Build
+[2020.01.14-15.12.37:907][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.14-15.12.38:019][511]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.14-15.12.38:046][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.01.14-15.12.38:069][511]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.14-15.12.38:070][511]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.249ms to complete.
+[2020.01.14-15.12.38:070][511]LogFileHelpers: Loading map 'MotionControllerMap' took 0.188
+[2020.01.14-15.12.42:327][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy_BP'
+[2020.01.14-15.12.42:327][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy_BP'
+[2020.01.14-15.12.42:327][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/Enemy_BP.Enemy_BP'
+[2020.01.14-15.14.59:008][439]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2020.01.14-15.14.59:057][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.14-15.15.00:312][439]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.00:373][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.14-15.15.00:397][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.14-15.15.00:421][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.01.14-15.15.00:443][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.14-15.15.13:980][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.14-15.15.15:976][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.15:981][ 50]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/BloodSplatter_BP.BloodSplatter_BP
+[2020.01.14-15.15.17:827][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.14-15.15.17:850][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.14-15.15.17:874][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.15.19:462][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.19:462][200]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BloodSplatter_BP.BloodSplatter_BP_C Referenced by Default__Player_BP_C
+[2020.01.14-15.15.19:463][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:072][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:073][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:073][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:073][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:073][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:073][200]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.15.20:073][200]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.15.20:110][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.20:110][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:110][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.20:110][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:124][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.20:124][200]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BloodSplatter_BP.BloodSplatter_BP_C Referenced by K2Node_CreateWidget_2
+[2020.01.14-15.15.20:124][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:125][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.20:125][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:451][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.01.14-15.15.20:451][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'ThrowRock' for  InputAction ThrowRock
+[2020.01.14-15.15.20:451][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.01.14-15.15.20:452][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'WeaponWheel' for  InputAction WeaponWheel
+[2020.01.14-15.15.20:452][200]LogBlueprint: Warning: [Compiler Player_BP] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.01.14-15.15.20:452][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Menu' for  InputAction Menu
+[2020.01.14-15.15.20:452][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Grenade' for  InputAction Grenade
+[2020.01.14-15.15.20:452][200]LogBlueprint: Warning: [Compiler Player_BP] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.01.14-15.15.20:452][200]LogBlueprint: Warning: [Compiler Player_BP] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'SlowMotion' for  InputAction SlowMotion
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'SelectSniper' for  InputAction SelectSniper
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'SelectPistol' for  InputAction SelectPistol
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'SelectShotgun' for  InputAction SelectShotgun
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'SelectAssaultRifle' for  InputAction SelectAssaultRifle
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Aim' for  InputAction Aim
+[2020.01.14-15.15.20:453][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'SelectFire' for  InputAction SelectFire
+[2020.01.14-15.15.20:454][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2020.01.14-15.15.20:454][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.01.14-15.15.20:454][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'Shoot' for  InputAction Shoot
+[2020.01.14-15.15.20:454][200]LogBlueprint: Warning: [Compiler Player_BP] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.01.14-15.15.20:454][200]LogBlueprint: Warning: [Compiler Player_BP] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.01.14-15.15.20:454][200]LogBlueprint: Warning: [Compiler Player_BP] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.01.14-15.15.20:458][200]LogBlueprint: Error: [Compiler Player_BP] Spawn node  Create Widget  must have a class specified.
+[2020.01.14-15.15.20:603][200]LogBlueprint: Warning: [Compiler Player_BP] [0281.84] Compile of Player_BP failed. 1 Fatal Issue(s) 23 Warning(s) [in 471 ms] (/Game/ThirdPersonBP/Blueprints/Player_BP.Player_BP)
+[2020.01.14-15.15.20:611][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.20:611][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:613][200]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP'
+[2020.01.14-15.15.20:613][200]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BloodSplatter_BP' while loading NULL.
+[2020.01.14-15.15.20:797][200]LogMaterial: Display: Missing cached shader map for material M_WeaponMaster_01, compiling. 
+[2020.01.14-15.15.20:886][200]LogMaterial: Display: Missing cached shader map for material MiniMapMaterial, compiling. 
+[2020.01.14-15.15.20:920][200]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2020.01.14-15.15.20:950][200]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2020.01.14-15.15.20:972][200]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2020.01.14-15.15.20:989][200]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2020.01.14-15.15.21:010][200]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2020.01.14-15.15.21:031][200]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.01.14-15.15.21:122][200]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.14-15.15.21:195][200]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.14-15.15.21:250][200]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.01.14-15.15.21:298][200]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2020.01.14-15.15.21:324][200]LogMaterial: Display: Missing cached shader map for material M_Woodchips_8x1_01, compiling. 
+[2020.01.14-15.15.21:377][200]LogMaterial: Display: Missing cached shader map for material M_RockSmall_01, compiling. 
+[2020.01.14-15.15.21:395][200]LogMaterial: Display: Missing cached shader map for material M_Smoke_8x8_B_01, compiling. 
+[2020.01.14-15.15.21:446][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_106' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_107' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_108' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_109' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_110' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_111' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_112' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_131' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:447][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.Rifle_ImpactSurface_Cue:SoundCueGraph_6.SoundCueGraphNode_Root_6' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_138' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_140' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_141' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_142' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_143' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:449][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.Shotgun_ImpactSurface_Cue:SoundCueGraph_54.SoundCueGraphNode_Root_54' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:451][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:451][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_20' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:451][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_21' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:451][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_22' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:451][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_23' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:451][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_24' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:452][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.SniperRifle_ImpactBody_Cue:SoundCueGraph_62.SoundCueGraphNode_Root_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:453][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactSurface_Cue.SniperRifle_ImpactSurface_Cue:SoundCueGraph_63.SoundCueGraphNode_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:453][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/SniperRifle/SniperRifle_ImpactSurface_Cue.SniperRifle_ImpactSurface_Cue:SoundCueGraph_63.SoundCueGraphNode_Root_63' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_145' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_146' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_147' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_149' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:454][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_Root_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:456][200]LogMaterial: Display: Missing cached shader map for material M_GlowSphere_01, compiling. 
+[2020.01.14-15.15.21:478][200]LogMaterial: Display: Missing cached shader map for material M_Pistol_Smoke_2x2_A, compiling. 
+[2020.01.14-15.15.21:531][200]LogMaterial: Display: Missing cached shader map for material M_Pistol_MuzzleFlash_4x1_A, compiling. 
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_113' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_114' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_115' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_116' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_117' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_118' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_119' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_138' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:548][200]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.Rifle_ImpactBody_Cue:SoundCueGraph_5.SoundCueGraphNode_Root_5' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.15.21:550][200]LogMaterial: Display: Missing cached shader map for material M_Pistol_Streaks_01, compiling. 
+[2020.01.14-15.15.21:570][200]LogMaterial: Display: Missing cached shader map for material M_AssaultRifle_MuzzleFlash_4x1, compiling. 
+[2020.01.14-15.15.21:749][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.01.14-15.15.26:198][200]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.29:503][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.15.30:608][551]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.30:610][551]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/SniperScope_BP.SniperScope_BP
+[2020.01.14-15.15.31:410][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.01.14-15.15.31:434][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.01.14-15.15.31:470][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.15.41:452][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.01.14-15.15.42:962][663]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.42:965][663]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PauseMenu_BP.PauseMenu_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/MainMenu_BP.MainMenu_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/HUD_BP.HUD_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/DetectionMeter_BP.DetectionMeter_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/WeaponWheel_BP.WeaponWheel_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.01.14-15.15.43:849][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.01.14-15.15.43:872][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.14-15.15.43:895][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.14-15.15.43:918][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.01.14-15.15.43:941][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.14-15.15.43:964][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.14-15.15.43:996][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.01.14-15.15.44:031][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.14-15.15.45:962][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.15.46:973][863]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.46:976][863]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Cover.Cover
+[2020.01.14-15.15.47:129][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.01.14-15.15.47:267][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.01.14-15.15.47:291][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.01.14-15.15.47:316][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.15.56:131][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.14-15.15.57:283][236]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.15.57:285][236]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Weapons/Rock_BP.Rock_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Weapons/Grenade_BP.Grenade_BP
+[2020.01.14-15.15.57:450][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.01.14-15.15.57:691][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.14-15.15.57:716][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.15.57:741][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.14-15.15.57:764][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.06:611][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.14-15.16.09:592][204]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.16.09:595][204]LogUObjectGlobals: Force Deleting 17 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/SniperUI_Sprite.SniperUI_Sprite
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/BloodSplatter.BloodSplatter
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/CrossHair.CrossHair
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/DetectionMeter.DetectionMeter
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/DetectionMeterFill.DetectionMeterFill
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/GrenadeUI.GrenadeUI
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/MinimapArrow.MinimapArrow
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/MiniMapImage.MiniMapImage
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/MiniMapMaterial.MiniMapMaterial
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Images/PistolUI.PistolUI
+[2020.01.14-15.16.09:812][204]LogMaterial: Display: Missing cached shader map for material MiniMapMaterial, compiling. 
+[2020.01.14-15.16.09:813][204]LogMaterial: Warning: C:\Users\Ethan\Documents\GitHub\Blood-Ascent\Content\ThirdPersonBP\Blueprints\Images\MiniMapMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.14-15.16.09:813][204]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.14-15.16.11:673][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.01.14-15.16.11:697][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.11:721][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.11:753][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.11:784][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.11:806][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.14-15.16.11:830][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.11:880][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.11:928][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.11:951][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.11:990][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.12:014][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.12:047][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.12:069][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.14-15.16.12:093][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.16.12:120][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.12:150][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.12:182][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.01.14-15.16.21:819][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.14-15.16.24:421][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.14-15.16.28:382][482]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.16.28:385][482]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Player_BP.Player_BP
+[2020.01.14-15.16.28:556][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.01.14-15.16.28:692][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.01.14-15.16.28:716][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.14-15.16.28:748][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.16.42:073][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:073][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:074][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:074][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:099][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:099][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:099][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:100][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:100][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:100][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:100][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:100][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:100][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:101][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:101][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:101][967]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Player_BP.Player_BP_C Referenced by K2Node_DynamicCast_0
+[2020.01.14-15.16.42:102][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:102][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:102][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:102][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:102][967]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Player_BP.Player_BP_C Referenced by K2Node_VariableSet_0
+[2020.01.14-15.16.42:102][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:103][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:103][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:105][967]LogBlueprint: Warning: [Compiler ArmourPickup_BP] Could not find a variable named "Armour" in 'ArmourPickup_BP'.
+Make sure 'ArmourPickup_BP' has been compiled for  Set Armour
+[2020.01.14-15.16.42:105][967]LogBlueprint: Error: [Compiler ArmourPickup_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.01.14-15.16.42:105][967]LogBlueprint: Error: [Compiler ArmourPickup_BP] In use pin  As Player BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.01.14-15.16.42:105][967]LogBlueprint: Error: [Compiler ArmourPickup_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.01.14-15.16.42:105][967]LogBlueprint: Error: [Compiler ArmourPickup_BP] The property associated with  Armour  could not be found in '/Game/ThirdPersonBP/Blueprints/PickUps/ArmourPickup_BP.ArmourPickup_BP_C'
+[2020.01.14-15.16.42:106][967]LogBlueprint: Warning: [Compiler ArmourPickup_BP] [0363.35] Compile of ArmourPickup_BP failed. 4 Fatal Issue(s) 1 Warning(s) [in 2 ms] (/Game/ThirdPersonBP/Blueprints/PickUps/ArmourPickup_BP.ArmourPickup_BP)
+[2020.01.14-15.16.42:107][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:107][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:108][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:108][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:114][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:114][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:115][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:115][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:115][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:116][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:116][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:116][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:116][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:116][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:117][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:117][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:117][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:118][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:118][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:118][967]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Player_BP.Player_BP_C Referenced by K2Node_VariableGet_0
+[2020.01.14-15.16.42:118][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:118][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:118][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:119][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:119][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:119][967]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.16.42:119][967]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.16.42:121][967]LogBlueprint: Warning: [Compiler Grenade_Pickup] Could not find a variable named "GrenadeAmount" in 'Grenade_Pickup'.
+Make sure 'Grenade_Pickup' has been compiled for  Set GrenadeAmount
+[2020.01.14-15.16.42:121][967]LogBlueprint: Warning: [Compiler Grenade_Pickup] Could not find a variable named "GrenadeAmount" in 'Grenade_Pickup'.
+Make sure 'Grenade_Pickup' has been compiled for  Get GrenadeAmount
+[2020.01.14-15.16.42:122][967]LogBlueprint: Error: [Compiler Grenade_Pickup] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.01.14-15.16.42:122][967]LogBlueprint: Error: [Compiler Grenade_Pickup] In use pin  As Player BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.01.14-15.16.42:122][967]LogBlueprint: Error: [Compiler Grenade_Pickup] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.01.14-15.16.42:122][967]LogBlueprint: Error: [Compiler Grenade_Pickup] The property associated with  Grenade Amount  could not be found in '/Game/ThirdPersonBP/Blueprints/PickUps/Grenade_Pickup.Grenade_Pickup_C'
+[2020.01.14-15.16.42:122][967]LogBlueprint: Error: [Compiler Grenade_Pickup] The property associated with  Grenade Amount  could not be found in '/Game/ThirdPersonBP/Blueprints/PickUps/Grenade_Pickup.Grenade_Pickup_C'
+[2020.01.14-15.16.42:123][967]LogBlueprint: Warning: [Compiler Grenade_Pickup] [0363.36] Compile of Grenade_Pickup failed. 5 Fatal Issue(s) 2 Warning(s) [in 3 ms] (/Game/ThirdPersonBP/Blueprints/PickUps/Grenade_Pickup.Grenade_Pickup)
+[2020.01.14-15.16.42:123][967]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_AmmoPickup_Cue.GrenadeLauncher_AmmoPickup_Cue:SoundCueGraph_24.SoundCueGraphNode_23' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.16.42:123][967]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_AmmoPickup_Cue.GrenadeLauncher_AmmoPickup_Cue:SoundCueGraph_24.SoundCueGraphNode_Root_24' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2020.01.14-15.16.42:124][967]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GrenadeLauncher_AmmoPickup...
+[2020.01.14-15.16.42:132][967]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32250 while cooking SoundWave /Game/MilitaryWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_AmmoPickup.GrenadeLauncher_AmmoPickup.
+[2020.01.14-15.16.42:156][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.01.14-15.16.46:065][967]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.16.46:067][967]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PickUps/AssaultRifle_PickUp.AssaultRifle_PickUp
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PickUps/Pistol_PickUp.Pistol_PickUp
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PickUps/ShotGun_PickUp.Shotgun_PickUp
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PickUps/Sniper_PickUp.Sniper_PickUp
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PickUps/ArmourPickup_BP.ArmourPickup_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/PickUps/Grenade_Pickup.Grenade_Pickup
+[2020.01.14-15.16.46:276][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.01.14-15.16.55:071][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.01.14-15.16.55:100][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.14-15.16.55:124][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.14-15.16.55:147][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.14-15.16.55:185][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.14-15.16.55:209][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.14-15.16.55:233][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.01.14-15.16.55:257][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.17.15:942][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.15:942][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.15:942][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:942][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:943][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.15:944][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.15:944][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:944][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:944][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.15:945][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.15:946][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.15:946][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.15:956][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:956][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:956][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.01.14-15.17.15:956][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode' while loading NULL.
+[2020.01.14-15.17.15:963][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:963][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:963][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:964][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:965][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:965][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:965][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:965][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.15:965][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.15:965][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:049][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:049][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:053][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:053][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:054][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.01.14-15.17.16:054][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode' while loading NULL.
+[2020.01.14-15.17.16:055][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:055][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:055][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.01.14-15.17.16:055][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode' while loading NULL.
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.16:058][249]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.16:061][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:061][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:062][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DetectionMeter_BP'
+[2020.01.14-15.17.16:063][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DetectionMeter_BP' while loading NULL.
+[2020.01.14-15.17.16:063][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/HUD_BP'
+[2020.01.14-15.17.16:063][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/HUD_BP' while loading NULL.
+[2020.01.14-15.17.16:063][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:063][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:063][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DetectionMeter_BP'
+[2020.01.14-15.17.16:064][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DetectionMeter_BP' while loading NULL.
+[2020.01.14-15.17.16:064][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/HUD_BP'
+[2020.01.14-15.17.16:064][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/HUD_BP' while loading NULL.
+[2020.01.14-15.17.16:064][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/AssaultRifle_PickUp'
+[2020.01.14-15.17.16:064][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/AssaultRifle_PickUp' while loading NULL.
+[2020.01.14-15.17.16:065][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/Pistol_PickUp'
+[2020.01.14-15.17.16:065][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/Pistol_PickUp' while loading NULL.
+[2020.01.14-15.17.16:065][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/ShotGun_PickUp'
+[2020.01.14-15.17.16:065][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/ShotGun_PickUp' while loading NULL.
+[2020.01.14-15.17.16:065][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/Sniper_PickUp'
+[2020.01.14-15.17.16:065][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/Sniper_PickUp' while loading NULL.
+[2020.01.14-15.17.16:066][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:066][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:066][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.01.14-15.17.16:066][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode' while loading NULL.
+[2020.01.14-15.17.16:067][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.01.14-15.17.16:067][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode' while loading NULL.
+[2020.01.14-15.17.16:085][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/AssaultRifle_PickUp'
+[2020.01.14-15.17.16:085][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/AssaultRifle_PickUp' while loading NULL.
+[2020.01.14-15.17.16:085][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/Pistol_PickUp'
+[2020.01.14-15.17.16:085][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/Pistol_PickUp' while loading NULL.
+[2020.01.14-15.17.16:085][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/ShotGun_PickUp'
+[2020.01.14-15.17.16:085][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/ShotGun_PickUp' while loading NULL.
+[2020.01.14-15.17.16:086][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PickUps/Sniper_PickUp'
+[2020.01.14-15.17.16:086][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PickUps/Sniper_PickUp' while loading NULL.
+[2020.01.14-15.17.16:086][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Player_BP'
+[2020.01.14-15.17.16:086][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Player_BP' while loading NULL.
+[2020.01.14-15.17.16:086][249]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.01.14-15.17.16:086][249]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode' while loading NULL.
+[2020.01.14-15.17.16:117][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.01.14-15.17.23:392][249]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.17.23:395][249]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/Patrolling/PatrolPath_BP.PatrolPath_BP
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/Patrolling/AIStates.AIStates
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/Patrolling/FindPointOnPatrolPath.FindPointOnPatrolPath
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/Patrolling/IncrementPatrolIndex.IncrementPatrolIndex
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/Patrolling/DecrementPatrolIndex.DecrementPatrolIndex
+[2020.01.14-15.17.24:341][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.01.14-15.17.24:365][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.14-15.17.24:390][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.14-15.17.24:413][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.17.24:435][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.01.14-15.17.24:462][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.01.14-15.17.24:484][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.17.26:103][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.14-15.17.27:141][422]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.17.27:143][422]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/AIDirector.AIDirector
+[2020.01.14-15.17.27:402][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.14-15.17.27:425][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.01.14-15.17.27:449][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.17.29:751][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.01.14-15.17.30:935][676]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.17.30:937][676]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/AIMovementStates.AIMovementStates
+[2020.01.14-15.17.31:183][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.14-15.17.31:207][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.01.14-15.17.31:231][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.14-15.17.59:195][804]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.59:195][804]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.59:195][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:195][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:195][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:195][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:196][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:197][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:197][804]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.01.14-15.17.59:197][804]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.01.14-15.17.59:197][804]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Cover'
+[2020.01.14-15.17.59:197][804]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Cover.Cover_C Referenced by EnvQueryGenerator_ActorsOfClass_0
+[2020.01.14-15.17.59:197][804]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Cover' while loading NULL.
+[2020.01.14-15.17.59:222][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.14-15.18.02:206][804]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.14-15.18.02:209][804]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/ChangeAIState.ChangeAIState
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/FindNearestCover.FindNearestCover
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/FindPlayer.FindPlayer
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget.GetCoverAndSetToTarget
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/SetHasHeardSoundToFalse.SetHasHeardSoundToFalse
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/IncrementTimeSinceLastShot.IncrementTimeSinceLastShot
+	Asset Name: /Game/ThirdPersonBP/Blueprints/AI/SetIsInCover.SetIsInCover
+[2020.01.14-15.18.03:784][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.01.14-15.18.03:808][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.14-15.18.03:831][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.14-15.18.03:854][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.14-15.18.03:886][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.14-15.18.03:910][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.01.14-15.18.03:933][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.14-15.18.03:956][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.01.14-15.18.03:979][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.14-15.18.05:444][964]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: FindPointOnPatrolPath class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_4
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: IncrementPatrolIndex class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_5
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: ChangeAIState class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_9
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: ChangeAIState class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_10
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: SetHasHeardSoundToFalse class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_11
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: IncrementTimeSinceLastShot class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_14
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_13
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_15
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_16
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_32
+[2020.01.14-15.18.05:487][964]LogAIGraph: Error: SetIsInCover class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_36
+[2020.01.14-15.18.05:487][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/Patrolling/FindPointOnPatrolPath'
+[2020.01.14-15.18.05:489][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/Patrolling/IncrementPatrolIndex'
+[2020.01.14-15.18.05:491][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/ChangeAIState'
+[2020.01.14-15.18.05:493][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/ChangeAIState'
+[2020.01.14-15.18.05:495][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/SetHasHeardSoundToFalse'
+[2020.01.14-15.18.05:496][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/IncrementTimeSinceLastShot'
+[2020.01.14-15.18.05:496][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:497][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:498][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:499][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:500][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/SetIsInCover'
+[2020.01.14-15.18.05:502][964]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.05:502][964]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.05:505][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/Patrolling/FindPointOnPatrolPath'
+[2020.01.14-15.18.05:506][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/Patrolling/IncrementPatrolIndex'
+[2020.01.14-15.18.05:507][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/ChangeAIState'
+[2020.01.14-15.18.05:508][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/ChangeAIState'
+[2020.01.14-15.18.05:509][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/SetHasHeardSoundToFalse'
+[2020.01.14-15.18.05:509][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/IncrementTimeSinceLastShot'
+[2020.01.14-15.18.05:510][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:511][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:512][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:513][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/GetCoverAndSetToTarget'
+[2020.01.14-15.18.05:514][964]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/AI/SetIsInCover'
+[2020.01.14-15.18.05:545][964]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: FindPointOnPatrolPath class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_4
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: IncrementPatrolIndex class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_5
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: ChangeAIState class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_9
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: ChangeAIState class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_10
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: SetHasHeardSoundToFalse class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_11
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: IncrementTimeSinceLastShot class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_14
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_13
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_15
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_16
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_32
+[2020.01.14-15.18.11:837][541]LogAIGraph: Error: SetIsInCover class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_36
+[2020.01.14-15.18.11:838][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:838][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:841][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:841][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:842][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Move To[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:843][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:844][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:844][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:844][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:844][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:844][541]LogBehaviorTree: Warning: Find Player[65535]> Failed to find key 'PlayerPosition' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.11:844][541]LogAIGraph: Error: IncrementTimeSinceLastShot class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_14
+[2020.01.14-15.18.11:844][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_13
+[2020.01.14-15.18.11:845][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_15
+[2020.01.14-15.18.11:845][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_16
+[2020.01.14-15.18.11:845][541]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_32
+[2020.01.14-15.18.11:845][541]LogAIGraph: Error: SetIsInCover class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_36
+[2020.01.14-15.18.13:627][740]LogAIGraph: Error: IncrementTimeSinceLastShot class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_14
+[2020.01.14-15.18.13:627][740]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_13
+[2020.01.14-15.18.13:627][740]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_15
+[2020.01.14-15.18.13:627][740]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_16
+[2020.01.14-15.18.13:627][740]LogAIGraph: Error: GetCoverAndSetToTarget class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_32
+[2020.01.14-15.18.13:627][740]LogAIGraph: Error: SetIsInCover class missing. Referenced by BehaviorTreeGraphNode_Task /Game/ThirdPersonBP/Blueprints/AI/Enemy_Tree.Enemy_Tree:Behavior Tree.BehaviorTreeGraphNode_Task_36
+[2020.01.14-15.18.19:067][346]LogSavePackage: Moving '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Enemy_Tree369D55524343E7617FBE53BA4620A748.tmp' to '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Content/ThirdPersonBP/Blueprints/AI/Enemy_Tree.uasset'
+[2020.01.14-15.18.19:085][346]LogSavePackage: Moving '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Enemy_Blackboard318ABD514B6722B69ACC278BC4591FD4.tmp' to '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Content/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.uasset'
+[2020.01.14-15.18.44:151][211]LogBehaviorTree: Warning: SetUpBlackBoardVariables[1]> Failed to find key 'AIDirector' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.44:151][211]LogBehaviorTree: Warning: SetUpBlackBoardVariables[1]> Failed to find key 'DistanceToPlayer' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.44:151][211]LogBehaviorTree: Warning: SetUpBlackBoardVariables[1]> Failed to find key 'PercentageChanceForFlank' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.44:172][211]LogSavePackage: Moving '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Saved/Enemy_Blackboard88C1B325420630E028E9E2B244BC8614.tmp' to '../../../../../../Users/Ethan/Documents/GitHub/Blood-Ascent/Content/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.uasset'
+[2020.01.14-15.18.45:077][314]LogBehaviorTree: Warning: SetUpBlackBoardVariables[1]> Failed to find key 'AIDirector' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.45:077][314]LogBehaviorTree: Warning: SetUpBlackBoardVariables[1]> Failed to find key 'DistanceToPlayer' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.45:077][314]LogBehaviorTree: Warning: SetUpBlackBoardVariables[1]> Failed to find key 'PercentageChanceForFlank' in BB asset BlackboardData /Game/ThirdPersonBP/Blueprints/AI/Enemy_Blackboard.Enemy_Blackboard. BB Key Selector will be set to 'Invalid'
+[2020.01.14-15.18.48:366][686]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AI/SetUpBlackBoardVariables.SetUpBlackBoardVariables
+[2020.01.14-15.18.52:897][686]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.01.14-15.18.58:430][ 54]LogSlate: Window 'Delete Variable' being destroyed
+[2020.01.14-15.18.58:434][ 54]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.14-15.18.58:434][ 54]LogWindows: Windows GetLastError: The operation completed successfully. (0)
